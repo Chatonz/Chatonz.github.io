@@ -83,7 +83,7 @@ Songning Lai#, Ninghui Feng#, Jiechao Gao, Hao Wang, Haochen Sui, Xin Zou, Jiayu
 **[Free-T2M: Frequency Enhanced Text-to-Motion Diffusion Model
 With Consistency Loss](https://arxiv.org/pdf/2501.18232)**
   
-**Wenshuo Chen#** Haozhe Jia# Songning Lai Keming Wu Hongru Xiao Lijie Hu Yutao Yue
+**Wenshuo Chen#**, Haozhe Jia#, Songning Lai, Keming Wu, Hongru Xiao, Lijie Hu, Yutao Yue
 - Distinguished from previous works that primarily focused on temporal aspects, We introduce a novel research perspective by analyzing motion generation
 from a denoising process.
 - We propose two types of consistency loss that act on the semantic planning and fine-grained improving stages, significantly improving model stability and precision.
