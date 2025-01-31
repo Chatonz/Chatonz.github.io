@@ -76,6 +76,21 @@ Songning Lai#, Ninghui Feng#, Jiechao Gao, Hao Wang, Haochen Sui, Xin Zou, Jiayu
 - Our research provides faithful technical support and theoretical support to the field of time series forecasting, promising to advance the development and reliability of forecasting methods within the industry. Through these efforts, we aim to bolster the trustworthiness of models, ultimately supporting decision-making processes that rely on accurate and consistent predictions.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/free-t2m.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**[Free-T2M: Frequency Enhanced Text-to-Motion Diffusion Model
+With Consistency Loss](https://arxiv.org/pdf/2501.18232)**
+  
+**Wenshuo Chen#** Haozhe Jia# Songning Lai Keming Wu Hongru Xiao Lijie Hu Yutao Yue
+- Distinguished from previous works that primarily focused on temporal aspects, We introduce a novel research perspective by analyzing motion generation
+from a denoising process.
+- We propose two types of consistency loss that act on the semantic planning and fine-grained improving stages, significantly improving model stability and precision.
+- Extensive experiments demonstrate the effectiveness of our approach. Without increasing model complexity, our method achieves state-of-the-art performance, thereby facilitating practical applications in text-tomotion generation.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2023.10* National first prize in CUMCM-2023 **(Top 0.3%)**
 - *2023.12* National Award for Intelligent Car 5G Communication Outdoor Competition 2023 **(Top 0.2%)**. 
