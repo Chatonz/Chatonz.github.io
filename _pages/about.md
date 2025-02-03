@@ -91,6 +91,18 @@ from a denoising process.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/RMDM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**[RMDM: Radio Map Diffusion Model with Physics Informed](https://arxiv.org/abs/2501.19160)**
+  
+Haozhe Jia#, **Wenshuo Chen#**, Zhihui Huang#, Hongru Xiao, Nanqian Jia, Keming Wu, Songning Lai, Yutao Yue
+- Unlike traditional data-driven methods, we incorporate Helmholtz equation-based constraints directly into the AI model, ensuring predictions align with electromagnetic wave propagation laws and reducing bias.
+- Our approach leverages a dual U-Net architecture, where the first U-Net is trained via Physics-Informed Neural Networks (PINN) to enforce physical consistency, while the second U-Net 
+- Extensive experiments on static (SRM) and dynamic (DRM) radio spectrum modeling validate the effectiveness of our method. Without increasing model complexity, our RMDM framework outperforms existing solutions, offering a robust and practical approach for radio spectrum analysis.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2023.10* National first prize in CUMCM-2023 **(Top 0.3%)**
 - *2023.12* National Award for Intelligent Car 5G Communication Outdoor Competition 2023 **(Top 0.2%)**. 
