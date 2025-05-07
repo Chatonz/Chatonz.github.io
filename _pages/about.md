@@ -40,10 +40,7 @@ My research interests include:
 - *2023.06*: I join Agibot as a reasearch intern.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/time_pre.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-  
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/dct_diff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **DCTdiff: Intriguing Properties of Image Generative Modeling in the DCT Space**
