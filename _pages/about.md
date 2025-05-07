@@ -40,6 +40,24 @@ My research interests include:
 - *2023.06*: I join Agibot as a reasearch intern.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/time_pre.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/dct_diff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**DCTdiff: Intriguing Properties of Image Generative Modeling in the DCT Space**
+Mang Ning, Mingxiao Li, Jianlin Su, Jia Haozhe, Lanmiao Liu, Martin Benes, Wenshuo Chen, Albert Ali Salah, Itir Onal Ertugrul 
+
+  
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/time_pre.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -68,21 +86,7 @@ Lijie Hu#, Songning Lai#, **Wenshuo Chen#**, Hongru Xiao, Hongbin Lin, Lu Yu, Ji
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/time_pre.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-  
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/dct_diff.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**DCTdiff: Intriguing Properties of Image Generative Modeling in the DCT Space**
-Mang Ning, Mingxiao Li, Jianlin Su, Jia Haozhe, Lanmiao Liu, Martin Benes, Wenshuo Chen, Albert Ali Salah, Itir Onal Ertugrul 
-
-  
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/time_pre.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 **[FTS: A FRAMEWORK TO FIND A FAITHFUL TIMESIEVE](https://arxiv.org/pdf/2405.19647)**
   
 Songning Lai#, Ninghui Feng#, Jiechao Gao, Hao Wang, Haochen Sui, Xin Zou, Jiayu Yang, **Wenshuo Chen**, Hang Zhao, Xuming Hu, Yutao Yue
