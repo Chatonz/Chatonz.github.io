@@ -30,7 +30,7 @@ My research interests include:
 
 
 # 🔥 News
-- - *2025.05* One paper of t2i is accepted by **ICML 2025**. Congratulations to the collaborators!
+- *2025.05* One paper of t2i is accepted by **ICML 2025**. Congratulations to the collaborators!
 - *2024.10* I will join Hong Kong University of Science and Technology (Guangzhou) as a PhD student in Fall 2025, supervised by Associate Professor [Yutao Yue](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue).
 - *2024.09* One paper of XAI is accepted by **NeurIPS 2024**. Congratulations to the collaborators!
 - *2024.09* I join CUHK(shenzhen) as a RA supervised by Professor [Zhizheng Wu](https://drwuz.com/).
@@ -48,7 +48,6 @@ My research interests include:
 
 Mang Ning, Mingxiao Li, Jianlin Su, Jia Haozhe, Lanmiao Liu, Martin Benes, **Wenshuo Chen**, Albert Ali Salah, Itir Onal Ertugrul 
 
-  
 </div>
 </div>
 
@@ -80,7 +79,8 @@ Lijie Hu#, Songning Lai#, **Wenshuo Chen#**, Hongru Xiao, Hongbin Lin, Lu Yu, Ji
 - Med-MICN demonstrates superior performance and interpretability compared with other concept-based models and the black-box model baselines.  
 </div>
 </div>
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/time_pre..png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **[FTS: A FRAMEWORK TO FIND A FAITHFUL TIMESIEVE](https://arxiv.org/pdf/2405.19647)**
   
