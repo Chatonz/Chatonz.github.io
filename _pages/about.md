@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Senior undergraduate at Shandong University, based in Qingdao.
 
-I am now working on Text-to-Motion generation, XAI, Multimodal reasoning and generation research. If you would like to have an academic discussion or cooperation, please feel free to email me at chatoncws@gmail.com.
+I am now working on Generative models(T2I, T2M), XAI research. If you would like to have an academic discussion or cooperation, please feel free to email me at chatoncws@gmail.com.
 
 My research interests include:
 
@@ -30,6 +30,7 @@ My research interests include:
 
 
 # 🔥 News
+- - *2025.05* One paper of t2i is accepted by **ICML 2025**. Congratulations to the collaborators!
 - *2024.10* I will join Hong Kong University of Science and Technology (Guangzhou) as a PhD student in Fall 2025, supervised by Associate Professor [Yutao Yue](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue).
 - *2024.09* One paper of XAI is accepted by **NeurIPS 2024**. Congratulations to the collaborators!
 - *2024.09* I join CUHK(shenzhen) as a RA supervised by Professor [Zhizheng Wu](https://drwuz.com/).
@@ -69,7 +70,19 @@ Lijie Hu#, Songning Lai#, **Wenshuo Chen#**, Hongru Xiao, Hongbin Lin, Lu Yu, Ji
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/time_pre.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
   
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/dct_diff.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**DCTdiff: Intriguing Properties of Image Generative Modeling in the DCT Space**
+Mang Ning, Mingxiao Li, Jianlin Su, Jia Haozhe, Lanmiao Liu, Martin Benes, Wenshuo Chen, Albert Ali Salah, Itir Onal Ertugrul 
+
+  
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/time_pre.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 **[FTS: A FRAMEWORK TO FIND A FAITHFUL TIMESIEVE](https://arxiv.org/pdf/2405.19647)**
   
 Songning Lai#, Ninghui Feng#, Jiechao Gao, Hao Wang, Haochen Sui, Xin Zou, Jiayu Yang, **Wenshuo Chen**, Hang Zhao, Xuming Hu, Yutao Yue
