@@ -43,8 +43,9 @@ My research interests include:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/dct_diff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
 **DCTdiff: Intriguing Properties of Image Generative Modeling in the DCT Space**
-Mang Ning, Mingxiao Li, Jianlin Su, Jia Haozhe, Lanmiao Liu, Martin Benes, Wenshuo Chen, Albert Ali Salah, Itir Onal Ertugrul 
+Mang Ning, Mingxiao Li, Jianlin Su, Jia Haozhe, Lanmiao Liu, Martin Benes, **Wenshuo Chen**, Albert Ali Salah, Itir Onal Ertugrul 
 
   
 </div>
