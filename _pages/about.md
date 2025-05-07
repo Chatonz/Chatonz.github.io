@@ -45,6 +45,7 @@ My research interests include:
 <div class='paper-box-text' markdown="1">
   
 **DCTdiff: Intriguing Properties of Image Generative Modeling in the DCT Space**
+
 Mang Ning, Mingxiao Li, Jianlin Su, Jia Haozhe, Lanmiao Liu, Martin Benes, **Wenshuo Chen**, Albert Ali Salah, Itir Onal Ertugrul 
 
   
