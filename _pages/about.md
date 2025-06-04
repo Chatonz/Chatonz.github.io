@@ -115,7 +115,7 @@ Haozhe Jia#, **Wenshuo Chen#**, Zhihui Huang#, Hongru Xiao, Nanqian Jia, Keming 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/RMDM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[ANT: Adaptive Neural Temporal-Aware Text-to-Motion Model](https://arxiv.org/pdf/2506.02452)**
