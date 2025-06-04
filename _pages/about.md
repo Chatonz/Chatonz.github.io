@@ -115,6 +115,17 @@ Haozhe Jia#, **Wenshuo Chen#**, Zhihui Huang#, Hongru Xiao, Nanqian Jia, Keming 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/RMDM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**[ANT: Adaptive Neural Temporal-Aware Text-to-Motion Model](https://arxiv.org/pdf/2506.02452)**
+
+**Wenshuo Chen#**, Kuimou Yu#, Haozhe Jia#, Kaishen Yuan, Bowen Tian, Songning Lai, Hongru Xiao, Erhang Zhang, Lei Wang, Yutao Yue
+
+</div>
+</div>
+
+
 # 🎖 Honors and Awards
 - *2023.10* National first prize in CUMCM-2023 **(Top 0.3%)**
 - *2023.12* National Award for Intelligent Car 5G Communication Outdoor Competition 2023 **(Top 0.2%)**. 
