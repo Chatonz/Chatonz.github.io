@@ -42,18 +42,7 @@ My research interests include:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/dct_diff.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**DCTdiff: Intriguing Properties of Image Generative Modeling in the DCT Space**
 
-Mang Ning, Mingxiao Li, Jianlin Su, Jia Haozhe, Lanmiao Liu, Martin Benes, **Wenshuo Chen**, Albert Ali Salah, Itir Onal Ertugrul 
-
-</div>
-</div>
-
-
-  
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -67,12 +56,27 @@ Mang Ning, Mingxiao Li, Jianlin Su, Jia Haozhe, Lanmiao Liu, Martin Benes, **Wen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/ant.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/dct_diff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
+**[DCTdiff: Intriguing Properties of Image Generative Modeling in the DCT Space](https://arxiv.org/abs/2412.15032)**
+
+Mang Ning, Mingxiao Li, Jianlin Su, Jia Haozhe, Lanmiao Liu, Martin Benes, **Wenshuo Chen**, Albert Ali Salah, Itir Onal Ertugrul 
+
+[**Code**]([https://github.com/CCSCovenant/ANT]) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/ant.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **[ANT: Adaptive Neural Temporal-Aware Text-to-Motion Model](https://arxiv.org/pdf/2506.02452)**
 
 **Wenshuo Chen#**, Kuimou Yu#, Haozhe Jia#, Kaishen Yuan, Bowen Tian, Songning Lai, Hongru Xiao, Erhang Zhang, Lei Wang, Yutao Yue
+
+[**Code**]([https://github.com/CCSCovenant/ANT]) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
 
 </div>
 </div>
