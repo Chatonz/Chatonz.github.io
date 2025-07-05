@@ -104,8 +104,6 @@ Songning Lai, Ninghui Feng, Jiechao Gao, Hao Wang, Haochen Sui, Xin Zou, Jiayu Y
 
 
 
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/framework_med.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -124,6 +122,8 @@ With Consistency Loss](https://arxiv.org/pdf/2501.18232)**
   
 **Wenshuo Chen#**, Haozhe Jia#, Songning Lai, Keming Wu, Hongru Xiao, Lijie Hu, Yutao Yue
 
+[**Code**]([https://github.com/Hxxxz0/Free-T2m]) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
+
 </div>
 </div>
 
@@ -133,6 +133,8 @@ With Consistency Loss](https://arxiv.org/pdf/2501.18232)**
 **[RMDM: Radio Map Diffusion Model with Physics Informed](https://arxiv.org/abs/2501.19160)**
   
 Haozhe Jia#, **Wenshuo Chen#**, Zhihui Huang#, Hongru Xiao, Nanqian Jia, Keming Wu, Songning Lai, Yutao Yue
+
+[**Code**]([https://github.com/Hxxxz0/RMDM]) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
 
 </div>
 </div>
