@@ -81,8 +81,7 @@ Mang Ning, Mingxiao Li, Jianlin Su, Jia Haozhe, Lanmiao Liu, Martin Benes, **Wen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/framework_med.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/t2w.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -104,8 +103,7 @@ Songning Lai, Ninghui Feng, Jiechao Gao, Hao Wang, Haochen Sui, Xin Zou, Jiayu Y
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/free-t2m.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
 
 
 
@@ -119,6 +117,8 @@ Lijie Hu#, Songning Lai#, **Wenshuo Chen#**, Hongru Xiao, Hongbin Lin, Lu Yu, Ji
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/free-t2m.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">  
   
 **[Free-T2M: Frequency Enhanced Text-to-Motion Diffusion Model
 With Consistency Loss](https://arxiv.org/pdf/2501.18232)**
