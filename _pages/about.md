@@ -99,7 +99,7 @@ Bowen Tian, **Wenshuo Chen**, Zexi Li, Songning Lai, Jiemin Wu, Yutao Yue
 **[From Guesswork to Guarantee: Towards Faithful Multimedia Web Forecasting with TimeSieve](https://arxiv.org/pdf/2405.19647)**
   
 Songning Lai, Ninghui Feng, Jiechao Gao, Hao Wang, Haochen Sui, Xin Zou, Jiayu Yang, **Wenshuo Chen**, Lijie Hu, Hang Zhao, Xuming Hu, Yutao Yue
-- Our research provides faithful technical support and theoretical support to the field of time series forecasting, promising to advance the development and reliability of forecasting methods within the industry. Through these efforts, we aim to bolster the trustworthiness of models, ultimately supporting decision-making processes that rely on accurate and consistent predictions.
+
 </div>
 </div>
 
