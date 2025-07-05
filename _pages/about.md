@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Senior undergraduate at Shandong University, based in Qingdao.
+I will soon enroll in a PhD program at The Hong Kong University of Science and Technology (Guangzhou) as a 25fall candidate, having already completed my undergraduate studies.
 
-I am now working on Generative models(T2I, T2M), XAI research. If you would like to have an academic discussion or cooperation, please feel free to email me at chatoncws@gmail.com.
+I am now working on Generative models(T2I, T2M, T2W, Radio Map Generation), XAI research. If you would like to have an academic discussion or cooperation, please feel free to email me at chatoncws@gmail.com.
 
 My research interests include:
 
-- Text-to-Motion Generation
-- Multimodal reasoning and generation
+- AIGC(Text-to-Motion Generation, Unified Model)
 - XAI
 
 
