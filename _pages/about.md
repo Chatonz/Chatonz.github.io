@@ -140,7 +140,7 @@ Haozhe Jia#, **Wenshuo Chen#**, Zhihui Huang#, Hongru Xiao, Nanqian Jia, Keming 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation in Construction</div><img src='images/ccs-tr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation in Construction</div><img src='images/ccs-tr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Automated detection of complex construction scenes using a lightweight transformer-based method](https://www.sciencedirect.com/science/article/pii/S092658052500370X)**
