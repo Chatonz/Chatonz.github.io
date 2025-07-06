@@ -158,7 +158,7 @@ H Xiao, B Yang, Y Lu, **W Chen**, S Lai, B Gao
 - *2023.12* National Award for Intelligent Car 5G Communication Outdoor Competition 2023 **(Top 0.2%)**. 
 
 # 📖 Educations
-- *2021.09 - Present*, Undergraduate Student, Shandong University, Qingdao. 
+- *2021.09 - 2025.06*, Undergraduate Student, Shandong University, Qingdao. 
 
 
 
