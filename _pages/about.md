@@ -30,6 +30,7 @@ My research interests include:
 
 # 🔥 News
 - *2025.07* Three paper are accepted by **ACM MM 2025**. Congratulations to the collaborators!
+- *2025.06* One paper  is accepted by **Automation in Construction (Q1, IF 11.5)**. Congratulations to the collaborators!
 - *2025.05* One paper of t2i is accepted by **ICML 2025**. Congratulations to the collaborators!
 - *2024.10* I will join Hong Kong University of Science and Technology (Guangzhou) as a PhD student in Fall 2025, supervised by Associate Professor [Yutao Yue](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue).
 - *2024.09* One paper of XAI is accepted by **NeurIPS 2024**. Congratulations to the collaborators!
@@ -135,6 +136,16 @@ With Consistency Loss](https://arxiv.org/pdf/2501.18232)**
 Haozhe Jia#, **Wenshuo Chen#**, Zhihui Huang#, Hongru Xiao, Nanqian Jia, Keming Wu, Songning Lai, Yutao Yue
 
 [**Code**]([https://github.com/Hxxxz0/RMDM]) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation in Construction</div><img src='images/ccs-tr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**[Automated detection of complex construction scenes using a lightweight transformer-based method](https://www.sciencedirect.com/science/article/pii/S092658052500370X)**
+  
+H Xiao, B Yang, Y Lu, **W Chen**, S Lai, B Gao
 
 </div>
 </div>
