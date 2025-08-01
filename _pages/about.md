@@ -43,16 +43,28 @@ My research interests include:
 
 # 📝 Publications 
 
+## **2025**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/ant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[SATO: Stable Text-to-Motion Framework](https://arxiv.org/abs/2405.01461)**
+**[ANT: Adaptive Neural Temporal-Aware Text-to-Motion Model](https://arxiv.org/pdf/2506.02452)**
 
-**Wenshuo Chen#**, Hongru Xiao#, Erhang Zhang#, Lijie Hu, Lei Wang, Mengyuan Liu, Chen Chen
+**Wenshuo Chen#**, Kuimou Yu#, Haozhe Jia#, Kaishen Yuan, Bowen Tian, Songning Lai, Hongru Xiao, Erhang Zhang, Lei Wang, Yutao Yue
 
-[**Project**](https://sato-team.github.io/Stable-Text-to-Motion-Framework/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Code**](https://github.com/sato-team/Stable-Text-to-Motion-Framework) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**]([https://github.com/CCSCovenant/ANT]) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM BNI 2025 (Oral)</div><img src='images/RMDM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**[RMDM: Radio Map Diffusion Model with Physics Informed](https://arxiv.org/abs/2501.19160)**
+  
+Haozhe Jia#, **Wenshuo Chen#**, Zhihui Huang#, Hongru Xiao, Nanqian Jia, Keming Wu, Songning Lai, Yutao Yue
+
+[**Code**]([https://github.com/Hxxxz0/RMDM]) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
 
 </div>
 </div>
@@ -70,20 +82,6 @@ Mang Ning, Mingxiao Li, Jianlin Su, Jia Haozhe, Lanmiao Liu, Martin Benes, **Wen
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/ant.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[ANT: Adaptive Neural Temporal-Aware Text-to-Motion Model](https://arxiv.org/pdf/2506.02452)**
-
-**Wenshuo Chen#**, Kuimou Yu#, Haozhe Jia#, Kaishen Yuan, Bowen Tian, Songning Lai, Hongru Xiao, Erhang Zhang, Lei Wang, Yutao Yue
-
-[**Code**]([https://github.com/CCSCovenant/ANT]) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
-
-</div>
-</div>
-
-
-  
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/t2w.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -106,6 +104,31 @@ Songning Lai, Ninghui Feng, Jiechao Gao, Hao Wang, Haochen Sui, Xin Zou, Jiayu Y
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation in Construction</div><img src='images/ccs-tr.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**[Automated detection of complex construction scenes using a lightweight transformer-based method](https://www.sciencedirect.com/science/article/pii/S092658052500370X)**
+  
+H Xiao, B Yang, Y Lu, **W Chen**, S Lai, B Gao
+
+</div>
+</div>
+
+## 2024年
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[SATO: Stable Text-to-Motion Framework](https://arxiv.org/abs/2405.01461)**
+
+**Wenshuo Chen#**, Hongru Xiao#, Erhang Zhang#, Lijie Hu, Lei Wang, Mengyuan Liu, Chen Chen
+
+[**Project**](https://sato-team.github.io/Stable-Text-to-Motion-Framework/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/sato-team/Stable-Text-to-Motion-Framework) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/framework_med.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -115,6 +138,8 @@ Lijie Hu#, Songning Lai#, **Wenshuo Chen#**, Hongru Xiao, Hongbin Lin, Lu Yu, Ji
  
 </div>
 </div>
+
+## Preprints
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/free-t2m.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">  
@@ -128,30 +153,6 @@ With Consistency Loss](https://arxiv.org/pdf/2501.18232)**
 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM BNI 2025 (Oral)</div><img src='images/RMDM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**[RMDM: Radio Map Diffusion Model with Physics Informed](https://arxiv.org/abs/2501.19160)**
-  
-Haozhe Jia#, **Wenshuo Chen#**, Zhihui Huang#, Hongru Xiao, Nanqian Jia, Keming Wu, Songning Lai, Yutao Yue
-
-[**Code**]([https://github.com/Hxxxz0/RMDM]) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation in Construction</div><img src='images/ccs-tr.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**[Automated detection of complex construction scenes using a lightweight transformer-based method](https://www.sciencedirect.com/science/article/pii/S092658052500370X)**
-  
-H Xiao, B Yang, Y Lu, **W Chen**, S Lai, B Gao
-
-</div>
-</div>
-
-
 
 
 # 🎖 Honors and Awards
