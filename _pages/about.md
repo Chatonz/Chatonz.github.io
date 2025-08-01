@@ -29,6 +29,7 @@ My research interests include:
 
 
 # 🔥 News
+- *2025.07* Three paper are accepted by **ACM MM BNI Track 2025 (Oral)**. Congratulations to the collaborators!
 - *2025.07* Three paper are accepted by **ACM MM 2025**. Congratulations to the collaborators!
 - *2025.06* One paper  is accepted by **Automation in Construction (Q1, IF 11.5)**. Congratulations to the collaborators!
 - *2025.05* One paper of t2i is accepted by **ICML 2025**. Congratulations to the collaborators!
@@ -128,7 +129,7 @@ With Consistency Loss](https://arxiv.org/pdf/2501.18232)**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/RMDM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM BNI 2025 (Oral)</div><img src='images/RMDM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[RMDM: Radio Map Diffusion Model with Physics Informed](https://arxiv.org/abs/2501.19160)**
