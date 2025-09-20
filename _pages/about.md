@@ -52,7 +52,7 @@ My research interests include:
 
 **Wenshuo Chen#**, Kuimou Yu#, Haozhe Jia#, Kaishen Yuan, Zexu Huang, Bowen Tian, Songning Lai, Hongru Xiao, Erhang Zhang, Lei Wang, Yutao Yue
 
-[**Code**]([https://github.com/CCSCovenant/ANT]) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
+[**Code**](https://github.com/CCSCovenant/ANT) 
 
 </div>
 </div>
