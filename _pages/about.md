@@ -64,7 +64,7 @@ My research interests include:
   
 Haozhe Jia#, **Wenshuo Chen#**, Zhihui Huang#, Hongru Xiao, Nanqian Jia, Keming Wu, Songning Lai, Yutao Yue
 
-[**Code**]([https://github.com/Hxxxz0/RMDM]) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
+[**Code**](https://github.com/Hxxxz0/RMDM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
 
 </div>
 </div>
@@ -76,7 +76,7 @@ Haozhe Jia#, **Wenshuo Chen#**, Zhihui Huang#, Hongru Xiao, Nanqian Jia, Keming 
 
 Mang Ning, Mingxiao Li, Jianlin Su, Jia Haozhe, Lanmiao Liu, Martin Benes, **Wenshuo Chen**, Albert Ali Salah, Itir Onal Ertugrul 
 
-[**Code**]([https://github.com/CCSCovenant/ANT]) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/forever208/DCTdiff) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>
@@ -86,7 +86,7 @@ Mang Ning, Mingxiao Li, Jianlin Su, Jia Haozhe, Lanmiao Liu, Martin Benes, **Wen
 <div class='paper-box-text' markdown="1">
   
 **[Text2Weight: Bridging Natural Language and Neural Network Weight Spaces](https://www.arxiv.org/abs/2508.13633)**
-[**Code**]([https://github.com/TianSuya/T2W]) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/TianSuya/T2W) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 Bowen Tian#, **Wenshuo Chen#**, Zexi Li, Songning Lai, Jiemin Wu, Yutao Yue
 
 </div>
@@ -149,7 +149,7 @@ With Consistency Loss](https://arxiv.org/pdf/2501.18232)**
   
 **Wenshuo Chen#**, Haozhe Jia#, Songning Lai, Keming Wu, Hongru Xiao, Lijie Hu, Yutao Yue
 
-[**Code**]([https://github.com/Hxxxz0/Free-T2m]) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
+[**Code**](https://github.com/Hxxxz0/Free-T2m) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
 
 </div>
 </div>
