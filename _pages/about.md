@@ -85,10 +85,12 @@ Mang Ning, Mingxiao Li, Jianlin Su, Jia Haozhe, Lanmiao Liu, Martin Benes, **Wen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/t2w.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**[Text2Weight: Bridging Natural Language and Neural Network Weight Spaces](https://www.arxiv.org/abs/2508.13633)**
-[**Code**](https://github.com/TianSuya/T2W) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**[Text2Weight: Bridging Natural Language and Neural Network Weight Spaces](https://arxiv.org/abs/2508.13633)**
+
 Bowen Tian#, **Wenshuo Chen#**, Zexi Li, Songning Lai, Jiemin Wu, Yutao Yue
 
+
+[**Code**](https://github.com/TianSuya/T2W) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
