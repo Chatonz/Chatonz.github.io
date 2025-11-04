@@ -60,7 +60,7 @@ My research interests include:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM BNI 2025 (Oral)</div><img src='images/RMDM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**[RMDM: Radio Map Diffusion Model with Physics Informed](https://arxiv.org/abs/2501.19160)**
+**[Physics-Informed Representation Alignment for Sparse Radio-Map Reconstruction](https://arxiv.org/abs/2501.19160)**
   
 Haozhe Jia#, **Wenshuo Chen#**, Zhihui Huang#, Hongru Xiao, Nanqian Jia, Keming Wu, Songning Lai, Yutao Yue
 
