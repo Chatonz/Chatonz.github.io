@@ -77,7 +77,7 @@ Haozhe Jia#, **Wenshuo Chen#**, Zhihui Huang#, Hongru Xiao, Nanqian Jia, Keming 
 Mang Ning, Mingxiao Li, Jianlin Su, Jia Haozhe, Lanmiao Liu, Martin Benes, **Wenshuo Chen**, Albert Ali Salah, Itir Onal Ertugrul 
 
 [**Code**](https://github.com/forever208/DCTdiff)
-[**zhihu**](https://zhuanlan.zhihu.com/p/1927834264440911445)
+[**Zhihu**](https://zhuanlan.zhihu.com/p/1927834264440911445)
 
 </div>
 </div>
