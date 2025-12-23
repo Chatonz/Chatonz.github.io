@@ -45,6 +45,21 @@ My research interests include:
 
 ## **2025**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/polaris.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[POLARIS: Projection-Orthogonal Least Squares for Robust and Adaptive Inversion in Diffusion Models](https://www.arxiv.org/abs/2512.00369)**
+
+**Wenshuo Chen**, Haosen Li, Shaofeng Liang, Lei Wang, Haozhe Jia, Kaishen Yuan, Jieming Wu, Bowen Tian, Yutao Yue
+
+[**Project Website**][https://polaris-code-official.github.io/]
+[**Code**](https://github.com/Chatonz/POLARIS) 
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/ant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
