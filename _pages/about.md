@@ -52,7 +52,7 @@ My research interests include:
 
 **Wenshuo Chen**, Haosen Li, Shaofeng Liang, Lei Wang, Haozhe Jia, Kaishen Yuan, Jieming Wu, Bowen Tian, Yutao Yue
 
-[**Project Website**][https://polaris-code-official.github.io/]
+[**Project Website**](https://polaris-code-official.github.io/)
 [**Code**](https://github.com/Chatonz/POLARIS) 
 
 </div>
