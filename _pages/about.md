@@ -29,6 +29,7 @@ My research interests include:
 
 
 # 🔥 News
+- *2026.01* Three paper are accepted by **WWW TIME Workshop (Oral)**. Congratulations to the collaborators! 
 - *2025.07* Three paper are accepted by **ACM MM BNI Track 2025 (Oral)**. Congratulations to the collaborators!
 - *2025.07* Three paper are accepted by **ACM MM 2025**. Congratulations to the collaborators!
 - *2025.06* One paper  is accepted by **Automation in Construction (Q1, IF 11.5)**. Congratulations to the collaborators!
