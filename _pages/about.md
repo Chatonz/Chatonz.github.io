@@ -29,7 +29,12 @@ My research interests include:
 
 
 # 🔥 News
+<<<<<<< HEAD
 - *2026.01* Three paper are accepted by **WWW TIME Workshop (Oral)**. Congratulations to the collaborators! 
+=======
+- *2026.01* One paper are accepted by **ICLR 2026**. Congratulations to Kaishen!
+- *2026.01* Three paper are accepted by **WWW TIME Workshop (Oral)**. Congratulations to the collaborators!
+>>>>>>> 026aa03 (1)
 - *2025.07* Three paper are accepted by **ACM MM BNI Track 2025 (Oral)**. Congratulations to the collaborators!
 - *2025.07* Three paper are accepted by **ACM MM 2025**. Congratulations to the collaborators!
 - *2025.06* One paper  is accepted by **Automation in Construction (Q1, IF 11.5)**. Congratulations to the collaborators!
