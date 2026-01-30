@@ -6,7 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wenshuo Chen（陈文硕）"
+title                    : "Wenshuo Chen"
+description              : "陈文硕"
 repository               : "Chatonz/Chatonz.github.io"
 google_scholar_stats_use_cdn : true
 
