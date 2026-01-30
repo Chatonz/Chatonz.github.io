@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at The Hong Kong University of Science and Technology (Guangzhou). I received my bachelor’s degree from Shandong University (Chongxin College).
+I am currently a PhD student at The Hong Kong University of Science and Technology (Guangzhou), supervised by Professor [Yutao Yue](https://yutaoyue.github.io/). I received my bachelor’s degree from Shandong University (Chongxin College).
 
 My research focuses on generative models, including Text-to-Image (T2I), Text-to-Motion (T2M), Image Editing, and radio map generation, as well as explainable artificial intelligence (XAI).
 
