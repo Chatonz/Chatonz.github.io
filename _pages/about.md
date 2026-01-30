@@ -17,14 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I will soon enroll in a PhD program at The Hong Kong University of Science and Technology (Guangzhou) as a 25fall candidate, having already completed my undergraduate studies.
+I am currently a PhD student at The Hong Kong University of Science and Technology (Guangzhou). I received my bachelor’s degree from Shandong University (Chongxin College).
 
-I am now working on Generative models(T2I, T2M, T2W, Radio Map Generation), XAI research. If you would like to have an academic discussion or cooperation, please feel free to email me at chatoncws@gmail.com.
+My research focuses on generative models, including Text-to-Image (T2I), Text-to-Motion (T2M), Image Editing, and radio map generation, as well as explainable artificial intelligence (XAI).
 
-My research interests include:
-
-- AIGC(Text-to-Motion Generation, Unified Model)
-- XAI
+If you are interested in academic discussion or potential collaboration, please feel free to contact me at chatoncws@gmail.com.
 
 
 
@@ -46,6 +43,19 @@ My research interests include:
 # 📝 Publications 
 
 ## **2025**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/coemogen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[CoEmoGen: Towards Semantically-Coherent and Scalable
+Emotional Image Content Generation](https://arxiv.org/pdf/2508.03535)**
+
+Kaishen Yuan*, Yuting Zhang*, Shang Gao, Yijie Zhu, **Wenshuo Chen**, Yutao Yue
+
+[**Code**](https://github.com/yuankaishen2001/CoEmoGen) 
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/polaris.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
