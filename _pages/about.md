@@ -26,8 +26,9 @@ If you are interested in academic discussion or potential collaboration, please 
 
 
 # 🔥 News
+- *2026.05* Two paper are accepted by **ICML 2026**. Congratulations to Haozhe and Bowen!
 - *2026.03* Honored to receive the Best Paper Runner-Up Award and the Best Student Paper Award at the TIME Workshop @ WWW 2026. Congratulations to all my collaborators!
-- *2026.01* One paper are accepted by **ICLR 2026**. Congratulations to Kaishen! 
+- *2026.01* One paper is accepted by **ICLR 2026**. Congratulations to Kaishen! 
 - *2026.01* Three paper are accepted by **WWW TIME Workshop (Oral)**. Congratulations to the collaborators! 
 - *2025.07* Three paper are accepted by **ACM MM BNI Track 2025 (Oral)**. Congratulations to the collaborators!
 - *2025.07* Three paper are accepted by **ACM MM 2025**. Congratulations to the collaborators!
