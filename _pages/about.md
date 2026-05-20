@@ -122,7 +122,7 @@ Bowen Tian#, **Wenshuo Chen#**, Zexi Li, Songning Lai, Jiemin Wu, Yutao Yue
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/time_pre.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/time_pre.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[From Guesswork to Guarantee: Towards Faithful Multimedia Web Forecasting with TimeSieve](https://arxiv.org/pdf/2405.19647)**
@@ -130,11 +130,11 @@ Bowen Tian#, **Wenshuo Chen#**, Zexi Li, Songning Lai, Jiemin Wu, Yutao Yue
 Songning Lai, Ninghui Feng, Jiechao Gao, Hao Wang, Haochen Sui, Xin Zou, Jiayu Yang, **Wenshuo Chen**, Lijie Hu, Hang Zhao, Xuming Hu, Yutao Yue
 
 </div>
-</div>
+</div> -->
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation in Construction</div><img src='images/ccs-tr.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation in Construction</div><img src='images/ccs-tr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Automated detection of complex construction scenes using a lightweight transformer-based method](https://www.sciencedirect.com/science/article/pii/S092658052500370X)**
@@ -142,7 +142,7 @@ Songning Lai, Ninghui Feng, Jiechao Gao, Hao Wang, Haochen Sui, Xin Zou, Jiayu Y
 H Xiao, B Yang, Y Lu, **W Chen**, S Lai, B Gao
 
 </div>
-</div>
+</div> -->
 
 ## 2024年
 
