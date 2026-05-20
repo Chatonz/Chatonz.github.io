@@ -42,6 +42,37 @@ If you are interested in academic discussion or potential collaboration, please 
 
 # 📝 Publications 
 
+## Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/polaris.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[POLARIS: Projection-Orthogonal Least Squares for Robust and Adaptive Inversion in Diffusion Models](https://www.arxiv.org/abs/2512.00369)**
+
+**Wenshuo Chen**, Haosen Li, Shaofeng Liang, Lei Wang, Haozhe Jia, Kaishen Yuan, Jieming Wu, Bowen Tian, Yutao Yue
+
+[**Project Website**](https://polaris-code-official.github.io/)
+[**Code**](https://github.com/Chatonz/POLARIS) 
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/free-t2m.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">  
+  
+**[Free-T2M: Frequency Enhanced Text-to-Motion Diffusion Model
+With Consistency Loss](https://arxiv.org/pdf/2501.18232)**
+  
+**Wenshuo Chen#**, Haozhe Jia#, Songning Lai, Keming Wu, Hongru Xiao, Lijie Hu, Yutao Yue
+
+[**Code**](https://github.com/Hxxxz0/Free-T2m) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
+
+</div>
+</div>
+
+
 ## **2025**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/coemogen.png' alt="sym" width="100%"></div></div>
@@ -57,18 +88,7 @@ Kaishen Yuan*, Yuting Zhang*, Shang Gao, Yijie Zhu, **Wenshuo Chen**, Yutao Yue
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/polaris.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**[POLARIS: Projection-Orthogonal Least Squares for Robust and Adaptive Inversion in Diffusion Models](https://www.arxiv.org/abs/2512.00369)**
-
-**Wenshuo Chen**, Haosen Li, Shaofeng Liang, Lei Wang, Haozhe Jia, Kaishen Yuan, Jieming Wu, Bowen Tian, Yutao Yue
-
-[**Project Website**](https://polaris-code-official.github.io/)
-[**Code**](https://github.com/Chatonz/POLARIS) 
-
-</div>
-</div>
 
 
 
@@ -169,20 +189,7 @@ Lijie Hu#, Songning Lai#, **Wenshuo Chen#**, Hongru Xiao, Hongbin Lin, Lu Yu, Ji
 </div>
 </div>
 
-## Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/free-t2m.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">  
-  
-**[Free-T2M: Frequency Enhanced Text-to-Motion Diffusion Model
-With Consistency Loss](https://arxiv.org/pdf/2501.18232)**
-  
-**Wenshuo Chen#**, Haozhe Jia#, Songning Lai, Keming Wu, Hongru Xiao, Lijie Hu, Yutao Yue
-
-[**Code**](https://github.com/Hxxxz0/Free-T2m) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
-
-</div>
-</div>
 
 
 # 🎖 Honors and Awards
