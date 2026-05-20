@@ -58,6 +58,21 @@ Haozhe Jia, Honglei Jin, Yuan Zhang, Youcheng Fan*, Shaofeng Liang*, Lei Wang, S
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Echo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[An Edge–Cloud Framework for Language-Driven Whole-Body Control of Humanoid Robots](https://arxiv.org/pdf/2603.16188)**
+
+Haozhe Jia, Jianfei Song, Yuan Zhang, Honglei Jin, Youcheng Fan, **Wenshuo Chen**, Wei Zhang, Yutao Yue
+
+[**Project Website**](https://echo-phi-eight.vercel.app/)
+[**Online Demo**](https://hxxxz0.github.io/ECHO/)
+[**Code**](https://github.com/Hxxxz0/ECHO_CODE) 
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/polaris.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
