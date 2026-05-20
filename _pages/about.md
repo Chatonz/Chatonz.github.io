@@ -47,6 +47,20 @@ If you are interested in academic discussion or potential collaboration, please 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/polaris.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+**[Before the Body Moves: Learning Anticipatory Joint Intent for Language-Conditioned Humanoid Control](https://arxiv.org/abs/2605.14417)**
+
+Haozhe Jia, Honglei Jin, Yuan Zhang, Youcheng Fan*, Shaofeng Liang*, Lei Wang, Shuxu Jin, Kuimou Yu, Zinuo Zhang, Jianfei Song, **Wenshuo Chen#**, Yutao Yue#
+
+[**Project Website**](https://hxxxz0.github.io/DAJI_PAGE/)
+[**Code**](https://github.com/Hxxxz0/DAJI) 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/polaris.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **[POLARIS: Projection-Orthogonal Least Squares for Robust and Adaptive Inversion in Diffusion Models](https://www.arxiv.org/abs/2512.00369)**
 
 **Wenshuo Chen**, Haosen Li, Shaofeng Liang, Lei Wang, Haozhe Jia, Kaishen Yuan, Jieming Wu, Bowen Tian, Yutao Yue
