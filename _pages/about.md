@@ -33,7 +33,6 @@ If you are interested in academic discussion or potential collaboration, please 
 - *2025.07* Three paper are accepted by **ACM MM 2025**. Congratulations to the collaborators!
 - *2025.06* One paper  is accepted by **Automation in Construction (Q1, IF 11.5)**. Congratulations to the collaborators!
 - *2025.05* One paper of t2i is accepted by **ICML 2025**. Congratulations to the collaborators!
-- *2024.10* I will join Hong Kong University of Science and Technology (Guangzhou) as a PhD student in Fall 2025, supervised by Associate Professor [Yutao Yue](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue).
 - *2024.09* One paper of XAI is accepted by **NeurIPS 2024**. Congratulations to the collaborators!
 - *2024.09* I join CUHK(shenzhen) as a RA supervised by Professor [Zhizheng Wu](https://drwuz.com/).
 - *2024.07* One paper of robustness of text-to-motion generation is accepted by **ACM MM 2024**. Congratulations to the collaborators!
