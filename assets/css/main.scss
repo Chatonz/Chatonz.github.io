@@ -108,9 +108,52 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+.pub-note {
+    color: #59636e;
+    font-size: .9rem;
+}
+
+.pub-simple-list {
+    margin: .75rem 0 1.75rem;
+}
+
+.pub-simple-list p {
+    margin: 0 0 1.15rem;
+    color: #24292f;
+    font-size: .98rem;
+    line-height: 1.62;
+}
+
+.pub-simple-list a {
+    margin-left: .35rem;
+    font-size: .9rem;
+    font-weight: 600;
+}
+
+.pub-tag {
+    display: inline-block;
+    margin-right: .45rem;
+    padding: .12rem .45rem;
+    border-radius: 4px;
+    color: #fff;
+    font-size: .78rem;
+    font-weight: 700;
+    line-height: 1.35;
+    vertical-align: .08rem;
+    white-space: nowrap;
+}
+
+.pub-tag--preprint { background: #68707a; }
+.pub-tag--eccv { background: #a44855; }
+.pub-tag--bni { background: #2f766f; }
+.pub-tag--icml { background: #345f9d; }
+.pub-tag--iclr { background: #7a5b2f; }
+.pub-tag--acmmm { background: #6b5596; }
+.pub-tag--neurips { background: #9a5a35; }
+
 .collab-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 1rem;
     margin: 1.25rem 0 2rem;
 }
@@ -119,7 +162,7 @@ h1:before, .anchor:before {
     display: flex;
     align-items: center;
     gap: .9rem;
-    min-height: 96px;
+    min-height: 104px;
     padding: 1rem;
     border: 1px solid #d8dee8;
     border-radius: 8px;
@@ -138,14 +181,18 @@ h1:before, .anchor:before {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    flex: 0 0 56px;
-    width: 56px;
-    height: 56px;
+    flex: 0 0 64px;
+    width: 64px;
+    height: 64px;
     border-radius: 50%;
     color: #fff;
-    background: linear-gradient(135deg, #2b6f7f, #7d5a8c);
+    background: #2b6f7f;
+    box-shadow: inset 0 0 0 3px rgba(255, 255, 255, .58), 0 2px 8px rgba(31, 43, 55, .15);
+    font-family: $sans-serif;
+    font-size: 1rem;
     font-weight: 700;
     letter-spacing: 0;
+    text-transform: uppercase;
 }
 
 .collab-body {
@@ -174,19 +221,21 @@ h1:before, .anchor:before {
 
 .honor-media-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 1rem;
-    margin: 1.25rem 0 2rem;
+    max-width: 760px;
+    margin: 1.25rem auto 2rem;
 }
 
 .honor-media-grid figure,
 .honor-feature {
-    margin: 0 0 1.5rem;
+    margin: 0 auto 1.5rem;
 }
 
 .honor-media-grid img,
 .honor-feature img {
     width: 100%;
+    max-width: 360px;
     border: 1px solid #d8dee8;
     border-radius: 8px;
 }
@@ -200,7 +249,19 @@ h1:before, .anchor:before {
 
 .honor-video {
     width: 100%;
-    max-height: 620px;
+    max-width: 760px;
+    max-height: 520px;
+    display: block;
+    margin: 0 auto;
     border-radius: 8px;
     background: #111;
+}
+
+.honor-feature {
+    max-width: 520px;
+    text-align: center;
+}
+
+.wbcd-award-image {
+    max-width: 520px;
 }

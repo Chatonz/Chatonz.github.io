@@ -7,7 +7,7 @@ author_profile: true
 
 # Honors and Awards
 
-- WBCD Logistics Sorting World Champion. Role: **POC**.
+- WBCD Logistics Picking World Champion. Role: **POC**.
 - *2026.03* WWW TIME Best Runner-up Paper Award.
 - *2026.03* WWW TIME Best Student Paper Award.
 - *2023.12* National Award for Intelligent Car 5G Communication Outdoor Competition 2023 **(Top 0.2%)**.
@@ -26,11 +26,11 @@ author_profile: true
   </figure>
 </div>
 
-## WBCD Logistics Sorting
+## WBCD Logistics Picking
 
 <figure class="honor-feature">
-  <img src="{{ '/images/wbcd/wbcd.jpg' | relative_url }}" alt="WBCD logistics sorting world champion">
-  <figcaption>WBCD Logistics Sorting World Champion. Role: POC.</figcaption>
+  <img class="wbcd-award-image" src="{{ '/images/wbcd/wbcd-rotated.jpg' | relative_url }}" alt="WBCD logistics picking world champion">
+  <figcaption>WBCD Logistics Picking World Champion. Role: POC.</figcaption>
 </figure>
 
 <video class="honor-video" controls preload="metadata">
