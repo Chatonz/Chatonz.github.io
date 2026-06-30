@@ -12,9 +12,13 @@ redirect_from:
 
 # About Me
 
-I received my bachelor’s degree from Shandong University (Chongxin College). My research focuses on generative models, including Text-to-Image (T2I), Text-to-Motion (T2M), Image Editing, and radio map generation, as well as explainable artificial intelligence (XAI).
+I received my bachelor’s degree from [Shandong University](https://www.en.sdu.edu.cn/) ([Chongxin College](https://www.ise.sdu.edu.cn/info/1093/15903.htm)). During that time, I was fortunate to be advised by [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/), and that year became a joyful and meaningful period in my early research journey. In Spring 2026, I joined [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) as a Ph.D. student, supervised by [Prof. Yutao Yue](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue).
 
-If you are interested in academic discussion or potential collaboration, please feel free to contact me at chatoncws@gmail.com.
+My research interests lie in Artificial Intelligence Generated Content (AIGC), Physical AI, and human-centered artificial intelligence. My work focuses on generative models and their extension from digital content creation to physically grounded intelligence. I have worked on text-to-image generation, image editing, text-to-motion generation, and explainable artificial intelligence. Recently, I have been particularly interested in language-conditioned motion generation and humanoid control, exploring how AI can translate human intent into executable and physically meaningful behaviors.
+
+More broadly, I aim to study the physical frontier of AI: how generative models, embodied representations, and control policies can enable intelligent systems to perceive, generate, explain, and act in the real world. My long-term goal is to contribute to human-centered Physical AI systems that can safely and naturally enter everyday environments, including future household robotics.
+
+If you are interested in academic discussion or potential collaboration, please feel free to contact me at [chatoncws@gmail.com](mailto:chatoncws@gmail.com).
 
 
 <span class='anchor' id='news'></span>
