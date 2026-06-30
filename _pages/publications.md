@@ -45,9 +45,9 @@ The 19th European Conference on Computer Vision (ECCV 2026).</p>
 <strong>Wenshuo Chen*</strong>, <u>Haozhe Jia</u>*, Songning Lai, Lei Wang, Pengyu Yin, Shaofeng Liang, Yuqi Lin, Hongru Xiao, Lijie Hu, Yutao Yue.<br>
 ACM Multimedia Brave New Ideas Track (ACM MM BNI 2026). Selected as a Poster paper.</p>
 
-<p><span class="pub-tag pub-tag--bni">ACM MM BNI Oral</span> <strong>Delta Score Matters! Spatial Adaptive Multi Guidance in Diffusion Models</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2604.26503" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
+<p><span class="pub-tag pub-tag--bni">ACM MM BNI <span class="pub-oral">Oral</span></span> <strong>Delta Score Matters! Spatial Adaptive Multi Guidance in Diffusion Models</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2604.26503" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
 <u>Haosen Li</u>*, <strong>Wenshuo Chen*</strong>, Lei Wang, Shaofeng Liang, Bowen Tian, Songning Lai, Yutao Yue.<br>
-ACM Multimedia Workshop on Big Neural and Imaging Models (ACM MM BNI 2026). Selected as an Oral paper.</p>
+ACM Multimedia Workshop on Big Neural and Imaging Models (ACM MM BNI 2026). Selected as an <span class="pub-oral">Oral</span> paper.</p>
 
 <p><span class="pub-tag pub-tag--bni">ACM MM BNI</span> <strong>Oracle Noise: Faster Semantic Spherical Alignment for Interpretable Latent Optimization</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2604.23540" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
 <u>Haosen Li</u>*, <strong>Wenshuo Chen*†</strong>, Lei Wang, Shaofeng Liang, <u>Haozhe Jia</u>, Yutao Yue†.<br>
@@ -77,9 +77,9 @@ The Fourteenth International Conference on Learning Representations (ICLR 2026).
 <strong>Wenshuo Chen*</strong>, Kuimou Yu*, <u>Haozhe Jia</u>*, Kaishen Yuan, Zexu Huang, Bowen Tian, Songning Lai, Hongru Xiao, Erhang Zhang, Lei Wang, Yutao Yue.<br>
 The 33rd ACM International Conference on Multimedia (ACM MM 2025).</p>
 
-<p><span class="pub-tag pub-tag--bni">ACM MM BNI Oral</span> <strong>Physics-Informed Representation Alignment for Sparse Radio-Map Reconstruction</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2501.19160" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a> <a class="pub-link pub-link--code" href="https://github.com/Hxxxz0/RMDM" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><br>
+<p><span class="pub-tag pub-tag--bni">ACM MM BNI <span class="pub-oral">Oral</span></span> <strong>Physics-Informed Representation Alignment for Sparse Radio-Map Reconstruction</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2501.19160" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a> <a class="pub-link pub-link--code" href="https://github.com/Hxxxz0/RMDM" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><br>
 <u>Haozhe Jia</u>*, <strong>Wenshuo Chen*</strong>, Zhihui Huang*, Hongru Xiao, Nanqian Jia, Keming Wu, Songning Lai, Yutao Yue.<br>
-ACM Multimedia Workshop on Big Neural and Imaging Models (ACM MM BNI 2025). Selected as an Oral paper.</p>
+ACM Multimedia Workshop on Big Neural and Imaging Models (ACM MM BNI 2025). Selected as an <span class="pub-oral">Oral</span> paper.</p>
 
 <p><span class="pub-tag pub-tag--icml">ICML</span> <strong>DCTdiff: Intriguing Properties of Image Generative Modeling in the DCT Space</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2412.15032" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a> <a class="pub-link pub-link--code" href="https://github.com/forever208/DCTdiff" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><br>
 Mang Ning, Mingxiao Li, Jianlin Su, <u>Haozhe Jia</u>, Lanmiao Liu, Martin Benes, <strong>Wenshuo Chen</strong>, Albert Ali Salah, Itir Onal Ertugrul.<br>
