@@ -42,14 +42,14 @@ author_profile: true
       <em>Faculty Collaborator</em>
     </span>
   </a>
-  <div class="collab-card">
+  <a class="collab-card" href="https://lijie-hu.github.io/" target="_blank" rel="noopener">
     <span class="collab-avatar">LH</span>
     <span class="collab-body">
       <strong>Lijie Hu</strong>
-      <span>KAUST</span>
+      <span>MBZUAI</span>
       <em>Faculty Collaborator</em>
     </span>
-  </div>
+  </a>
 </div>
 
 ## Research Collaborators
@@ -85,7 +85,7 @@ author_profile: true
   </a>
   <div class="collab-card">
     <span class="collab-avatar">SF</span>
-    <span class="collab-body"><strong>Shaofeng Liang</strong><span>Research Collaborator</span><em>Generative Models</em></span>
+    <span class="collab-body"><strong>Shaofeng Liang</strong><span>HKUST(GZ)</span><em>Research Collaborator</em></span>
   </div>
   <div class="collab-card">
     <span class="collab-avatar">HL</span>
