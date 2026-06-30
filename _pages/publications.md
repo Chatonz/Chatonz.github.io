@@ -9,6 +9,17 @@ author_profile: true
 
 ## Preprints
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src="{{ '/images/500x300.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[MemoGen: Can Past Experience Improve Future Text-to-Image Generation?](https://arxiv.org/abs/2606.03243)**
+
+**Wenshuo Chen#**, Kuimou Yu#, Bowen Tian#, Jianfei Song#, Shaofeng Liang, Haozhe Jia, Kan Cheng, Haosen Li, Kaishen Yuan, Lei Wang, Jiemin Wu, Songning Lai, Yutao Yue
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src="{{ '/images/daji.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -52,7 +63,9 @@ Haozhe Jia, Jianfei Song, Yuan Zhang, Honglei Jin, Youcheng Fan, **Wenshuo Chen*
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src="{{ '/images/free-t2m.png' | relative_url }}" alt="sym" width="100%"></div></div>
+## **2026**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src="{{ '/images/free-t2m.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Free-T2M: Frequency Enhanced Text-to-Motion Diffusion Model
@@ -66,7 +79,49 @@ With Consistency Loss](https://arxiv.org/pdf/2501.18232)**
 </div>
 
 
-## **2025**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM BNI 2026 (Oral)</div><img src="{{ '/images/500x300.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Delta Score Matters! Spatial Adaptive Multi Guidance in Diffusion Models](https://arxiv.org/abs/2604.26503)**
+
+Haosen Li#, **Wenshuo Chen#**, Lei Wang, Shaofeng Liang, Bowen Tian, Songning Lai, Yutao Yue
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM BNI 2026 (Poster)</div><img src="{{ '/images/500x300.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Oracle Noise: Faster Semantic Spherical Alignment for Interpretable Latent Optimization](https://arxiv.org/abs/2604.23540)**
+
+Haosen Li#, **Wenshuo Chen#**, Lei Wang, Shaofeng Liang, Haozhe Jia, Yutao Yue
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src="{{ '/images/500x300.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment](https://arxiv.org/abs/2605.20780)**
+
+Haozhe Jia#, Pengyu Yin#, **Wenshuo Chen#**, Shaofeng Liang, Lei Wang, Bowen Tian, Xiucheng Wang, Nanqian Jia, Yutao Yue
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src="{{ '/images/500x300.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[AnyEdit++: Adaptive Long-Form Knowledge Editing via Bayesian Surprise](https://arxiv.org/abs/2606.01053)**
+
+Bowen Tian, Caixue He, Jiemin Wu, Jingying Wang, **Wenshuo Chen**, Zexi Li, Yutao Yue
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src="{{ '/images/coemogen.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -81,6 +136,8 @@ Kaishen Yuan*, Yuting Zhang*, Shang Gao, Yijie Zhu, **Wenshuo Chen**, Yutao Yue
 </div>
 </div>
 
+
+## **2025**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src="{{ '/images/ant.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

@@ -19,6 +19,8 @@ If you are interested in academic discussion or potential collaboration, please 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.06* Two papers are accepted by **ECCV 2026**. Congratulations to the collaborators!
+- *2026.06* Three papers are accepted by **ACM MM BNI Track 2026** (**1 Oral, 2 Posters**). Congratulations to the collaborators!
 - *2026.05* Two paper are accepted by **ICML 2026**. Congratulations to Haozhe and Bowen!
 - *2026.03* Honored to receive the Best Paper Runner-Up Award and the Best Student Paper Award at the TIME Workshop @ WWW 2026. Congratulations to all my collaborators!
 - *2026.01* One paper is accepted by **ICLR 2026**. Congratulations to Kaishen! 
