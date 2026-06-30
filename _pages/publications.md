@@ -5,232 +5,95 @@ excerpt: ""
 author_profile: true
 ---
 
-# 📝 Publications
+# Publications
+
+("*" equal contribution, "†" corresponding author, "__" students mentored by me)
 
 ## Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src="{{ '/images/500x300.png' | relative_url }}" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[Preprint] MemoGen: Can Past Experience Improve Future Text-to-Image Generation? [ArXiv](https://arxiv.org/abs/2606.03243)<br>
+Wenshuo Chen*, Kuimou Yu*, Bowen Tian*, Jianfei Song*, Shaofeng Liang, Haozhe Jia, Kan Cheng, Haosen Li, Kaishen Yuan, Lei Wang, Jiemin Wu, Songning Lai, Yutao Yue.<br>
+Preprint.
 
-**[MemoGen: Can Past Experience Improve Future Text-to-Image Generation?](https://arxiv.org/abs/2606.03243)**
+[Preprint] Before the Body Moves: Learning Anticipatory Joint Intent for Language-Conditioned Humanoid Control. [Link](https://hxxxz0.github.io/DAJI_PAGE/) [ArXiv](https://arxiv.org/abs/2605.14417) [code](https://github.com/Hxxxz0/DAJI)<br>
+Haozhe Jia, Honglei Jin, Yuan Zhang, Youcheng Fan*, Shaofeng Liang*, Lei Wang, Shuxu Jin, Kuimou Yu, Zinuo Zhang, Jianfei Song, Wenshuo Chen†, Yutao Yue†.<br>
+Preprint.
 
-**Wenshuo Chen#**, Kuimou Yu#, Bowen Tian#, Jianfei Song#, Shaofeng Liang, Haozhe Jia, Kan Cheng, Haosen Li, Kaishen Yuan, Lei Wang, Jiemin Wu, Songning Lai, Yutao Yue
+[Preprint] An Edge-Cloud Framework for Language-Driven Whole-Body Control of Humanoid Robots. [Link](https://echo-phi-eight.vercel.app/) [ArXiv](https://arxiv.org/abs/2603.16188) [code](https://github.com/Hxxxz0/ECHO_CODE)<br>
+Haozhe Jia, Jianfei Song, Yuan Zhang, Honglei Jin, Youcheng Fan, Wenshuo Chen, Wei Zhang, Yutao Yue.<br>
+Preprint.
 
-</div>
-</div>
+[Preprint] POLARIS: Projection-Orthogonal Least Squares for Robust and Adaptive Inversion in Diffusion Models. [Link](https://polaris-code-official.github.io/) [ArXiv](https://www.arxiv.org/abs/2512.00369) [code](https://github.com/Chatonz/POLARIS)<br>
+Wenshuo Chen, Haosen Li, Shaofeng Liang, Lei Wang, Haozhe Jia, Kaishen Yuan, Jiemin Wu, Bowen Tian, Yutao Yue.<br>
+Preprint.
 
+## 2026
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src="{{ '/images/daji.png' | relative_url }}" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+### Conference Papers
 
-**[Before the Body Moves: Learning Anticipatory Joint Intent for Language-Conditioned Humanoid Control](https://arxiv.org/abs/2605.14417)**
+[ECCV] Dynamic-V2C: Editable and Continual Vision-to-Concept Bottleneck Models via Influence Functions. [Link](https://xll0328.github.io/dynamic-v2c/)<br>
+Songning Lai, Shaofeng Liang, Jiayu Yang, Ninghui Feng, Yuxuan Fan, Wenshuo Chen†.<br>
+The 19th European Conference on Computer Vision (ECCV 2026).
 
-Haozhe Jia, Honglei Jin, Yuan Zhang, Youcheng Fan*, Shaofeng Liang*, Lei Wang, Shuxu Jin, Kuimou Yu, Zinuo Zhang, Jianfei Song, **Wenshuo Chen#**, Yutao Yue#
+[ECCV] SFM: Taming State Space Models for Text-to-Motion via Spatial-Frequency Modeling.<br>
+Shang Gao*, Haicheng Liao*, Wenshuo Chen*, Yumu Xie, Jiaxun Zhang, Bin Rao, Chengyue Wang, Yanchen Guan, Zhiyong Cui, Shiqi Ou, Yutao Yue, Zhenning Li.<br>
+The 19th European Conference on Computer Vision (ECCV 2026).
 
-[**Project Website**](https://hxxxz0.github.io/DAJI_PAGE/)
-[**Code**](https://github.com/Hxxxz0/DAJI)
+[ACM MM BNI] Free-T2M: Frequency-Aware Coarse-to-Fine Text-to-Motion Generation. [ArXiv](https://arxiv.org/abs/2501.18232) [code](https://github.com/Hxxxz0/Free-T2m)<br>
+Wenshuo Chen*, Haozhe Jia*, Songning Lai, Lei Wang, Pengyu Yin, Shaofeng Liang, Yuqi Lin, Hongru Xiao, Lijie Hu, Yutao Yue.<br>
+ACM Multimedia Brave New Ideas Track (ACM MM BNI 2026).<br>
+Selected as a Poster paper.
 
-</div>
-</div>
+[ACM MM BNI Oral] Delta Score Matters! Spatial Adaptive Multi Guidance in Diffusion Models. [ArXiv](https://arxiv.org/abs/2604.26503)<br>
+Haosen Li*, Wenshuo Chen*, Lei Wang, Shaofeng Liang, Bowen Tian, Songning Lai, Yutao Yue.<br>
+ACM Multimedia Workshop on Big Neural and Imaging Models (ACM MM BNI 2026).<br>
+Selected as an Oral paper.
 
+[ACM MM BNI] Oracle Noise: Faster Semantic Spherical Alignment for Interpretable Latent Optimization. [ArXiv](https://arxiv.org/abs/2604.23540)<br>
+Haosen Li*, Wenshuo Chen*†, Lei Wang, Shaofeng Liang, Haozhe Jia, Yutao Yue†.<br>
+ACM Multimedia Workshop on Big Neural and Imaging Models (ACM MM BNI 2026).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src="{{ '/images/Echo.png' | relative_url }}" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[ICML] Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment. [ArXiv](https://arxiv.org/abs/2605.20780)<br>
+Haozhe Jia*, Pengyu Yin*, Wenshuo Chen*, Shaofeng Liang, Lei Wang, Bowen Tian, Xiucheng Wang, Nanqian Jia, Yutao Yue.<br>
+The Forty-Third International Conference on Machine Learning (ICML 2026).
 
-**[An Edge–Cloud Framework for Language-Driven Whole-Body Control of Humanoid Robots](https://arxiv.org/pdf/2603.16188)**
+[ICML] AnyEdit++: Adaptive Long-Form Knowledge Editing via Bayesian Surprise. [ArXiv](https://arxiv.org/abs/2606.01053)<br>
+Bowen Tian, Caixue He, Jiemin Wu, Jingying Wang, Wenshuo Chen, Zexi Li, Yutao Yue.<br>
+The Forty-Third International Conference on Machine Learning (ICML 2026).
 
-Haozhe Jia, Jianfei Song, Yuan Zhang, Honglei Jin, Youcheng Fan, **Wenshuo Chen**, Wei Zhang, Yutao Yue
+[ICLR] CoEmoGen: Towards Semantically-Coherent and Scalable Emotional Image Content Generation. [ArXiv](https://arxiv.org/abs/2508.03535) [code](https://github.com/yuankaishen2001/CoEmoGen)<br>
+Kaishen Yuan*, Yuting Zhang*, Shang Gao, Yijie Zhu, Wenshuo Chen, Yutao Yue.<br>
+The Fourteenth International Conference on Learning Representations (ICLR 2026).
 
-[**Project Website**](https://echo-phi-eight.vercel.app/)
-[**Online Demo**](https://hxxxz0.github.io/ECHO/)
-[**Code**](https://github.com/Hxxxz0/ECHO_CODE)
+## 2025
 
-</div>
-</div>
+### Conference Papers
 
+[ACM MM] ANT: Adaptive Neural Temporal-Aware Text-to-Motion Model. [ArXiv](https://arxiv.org/abs/2506.02452) [code](https://github.com/CCSCovenant/ANT)<br>
+Wenshuo Chen*, Kuimou Yu*, Haozhe Jia*, Kaishen Yuan, Zexu Huang, Bowen Tian, Songning Lai, Hongru Xiao, Erhang Zhang, Lei Wang, Yutao Yue.<br>
+The 33rd ACM International Conference on Multimedia (ACM MM 2025).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src="{{ '/images/polaris.png' | relative_url }}" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[ACM MM BNI Oral] Physics-Informed Representation Alignment for Sparse Radio-Map Reconstruction. [ArXiv](https://arxiv.org/abs/2501.19160) [code](https://github.com/Hxxxz0/RMDM)<br>
+Haozhe Jia*, Wenshuo Chen*, Zhihui Huang*, Hongru Xiao, Nanqian Jia, Keming Wu, Songning Lai, Yutao Yue.<br>
+ACM Multimedia Workshop on Big Neural and Imaging Models (ACM MM BNI 2025).<br>
+Selected as an Oral paper.
 
-**[POLARIS: Projection-Orthogonal Least Squares for Robust and Adaptive Inversion in Diffusion Models](https://www.arxiv.org/abs/2512.00369)**
+[ICML] DCTdiff: Intriguing Properties of Image Generative Modeling in the DCT Space. [ArXiv](https://arxiv.org/abs/2412.15032) [code](https://github.com/forever208/DCTdiff)<br>
+Mang Ning, Mingxiao Li, Jianlin Su, Haozhe Jia, Lanmiao Liu, Martin Benes, Wenshuo Chen, Albert Ali Salah, Itir Onal Ertugrul.<br>
+The Forty-Second International Conference on Machine Learning (ICML 2025).
 
-**Wenshuo Chen**, Haosen Li, Shaofeng Liang, Lei Wang, Haozhe Jia, Kaishen Yuan, Jieming Wu, Bowen Tian, Yutao Yue
+[ACM MM] Text2Weight: Bridging Natural Language and Neural Network Weight Spaces. [ArXiv](https://arxiv.org/abs/2508.13633) [code](https://github.com/TianSuya/T2W)<br>
+Bowen Tian*, Wenshuo Chen*, Zexi Li, Songning Lai, Jiemin Wu, Yutao Yue.<br>
+The 33rd ACM International Conference on Multimedia (ACM MM 2025).
 
-[**Project Website**](https://polaris-code-official.github.io/)
-[**Code**](https://github.com/Chatonz/POLARIS)
+## 2024
 
-</div>
-</div>
+### Conference Papers
 
+[ACM MM] SATO: Stable Text-to-Motion Framework. [Link](https://sato-team.github.io/Stable-Text-to-Motion-Framework/) [ArXiv](https://arxiv.org/abs/2405.01461) [code](https://github.com/sato-team/Stable-Text-to-Motion-Framework)<br>
+Wenshuo Chen*, Hongru Xiao*, Erhang Zhang*, Lijie Hu, Lei Wang, Mengyuan Liu, Chen Chen.<br>
+The 32nd ACM International Conference on Multimedia (ACM MM 2024).
 
-## **2026**
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src="{{ '/images/free-t2m.png' | relative_url }}" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[Free-T2M: Frequency Enhanced Text-to-Motion Diffusion Model
-With Consistency Loss](https://arxiv.org/pdf/2501.18232)**
-
-**Wenshuo Chen#**, Haozhe Jia#, Songning Lai, Keming Wu, Hongru Xiao, Lijie Hu, Yutao Yue
-
-[**Code**](https://github.com/Hxxxz0/Free-T2m) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM BNI 2026 (Oral)</div><img src="{{ '/images/500x300.png' | relative_url }}" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[Delta Score Matters! Spatial Adaptive Multi Guidance in Diffusion Models](https://arxiv.org/abs/2604.26503)**
-
-Haosen Li#, **Wenshuo Chen#**, Lei Wang, Shaofeng Liang, Bowen Tian, Songning Lai, Yutao Yue
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM BNI 2026 (Poster)</div><img src="{{ '/images/500x300.png' | relative_url }}" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[Oracle Noise: Faster Semantic Spherical Alignment for Interpretable Latent Optimization](https://arxiv.org/abs/2604.23540)**
-
-Haosen Li#, **Wenshuo Chen#**, Lei Wang, Shaofeng Liang, Haozhe Jia, Yutao Yue
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src="{{ '/images/500x300.png' | relative_url }}" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment](https://arxiv.org/abs/2605.20780)**
-
-Haozhe Jia#, Pengyu Yin#, **Wenshuo Chen#**, Shaofeng Liang, Lei Wang, Bowen Tian, Xiucheng Wang, Nanqian Jia, Yutao Yue
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src="{{ '/images/500x300.png' | relative_url }}" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[AnyEdit++: Adaptive Long-Form Knowledge Editing via Bayesian Surprise](https://arxiv.org/abs/2606.01053)**
-
-Bowen Tian, Caixue He, Jiemin Wu, Jingying Wang, **Wenshuo Chen**, Zexi Li, Yutao Yue
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src="{{ '/images/coemogen.png' | relative_url }}" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[CoEmoGen: Towards Semantically-Coherent and Scalable
-Emotional Image Content Generation](https://arxiv.org/pdf/2508.03535)**
-
-Kaishen Yuan*, Yuting Zhang*, Shang Gao, Yijie Zhu, **Wenshuo Chen**, Yutao Yue
-
-[**Code**](https://github.com/yuankaishen2001/CoEmoGen)
-
-</div>
-</div>
-
-
-## **2025**
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src="{{ '/images/ant.png' | relative_url }}" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[ANT: Adaptive Neural Temporal-Aware Text-to-Motion Model](https://arxiv.org/pdf/2506.02452)**
-
-**Wenshuo Chen#**, Kuimou Yu#, Haozhe Jia#, Kaishen Yuan, Zexu Huang, Bowen Tian, Songning Lai, Hongru Xiao, Erhang Zhang, Lei Wang, Yutao Yue
-
-[**Code**](https://github.com/CCSCovenant/ANT)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM BNI 2025 (Oral)</div><img src="{{ '/images/RMDM.png' | relative_url }}" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[Physics-Informed Representation Alignment for Sparse Radio-Map Reconstruction](https://arxiv.org/abs/2501.19160)**
-
-Haozhe Jia#, **Wenshuo Chen#**, Zhihui Huang#, Hongru Xiao, Nanqian Jia, Keming Wu, Songning Lai, Yutao Yue
-
-[**Code**](https://github.com/Hxxxz0/RMDM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src="{{ '/images/dct_diff.png' | relative_url }}" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[DCTdiff: Intriguing Properties of Image Generative Modeling in the DCT Space](https://arxiv.org/abs/2412.15032)**
-
-Mang Ning, Mingxiao Li, Jianlin Su, Jia Haozhe, Lanmiao Liu, Martin Benes, **Wenshuo Chen**, Albert Ali Salah, Itir Onal Ertugrul
-
-[**Code**](https://github.com/forever208/DCTdiff)
-[**Zhihu**](https://zhuanlan.zhihu.com/p/1927834264440911445)
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src="{{ '/images/t2w.png' | relative_url }}" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[Text2Weight: Bridging Natural Language and Neural Network Weight Spaces](https://arxiv.org/abs/2508.13633)**
-
-Bowen Tian#, **Wenshuo Chen#**, Zexi Li, Songning Lai, Jiemin Wu, Yutao Yue
-
-
-[**Code**](https://github.com/TianSuya/T2W) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src="{{ '/images/time_pre.png' | relative_url }}" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[From Guesswork to Guarantee: Towards Faithful Multimedia Web Forecasting with TimeSieve](https://arxiv.org/pdf/2405.19647)**
-
-Songning Lai, Ninghui Feng, Jiechao Gao, Hao Wang, Haochen Sui, Xin Zou, Jiayu Yang, **Wenshuo Chen**, Lijie Hu, Hang Zhao, Xuming Hu, Yutao Yue
-
-</div>
-</div> -->
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation in Construction</div><img src="{{ '/images/ccs-tr.jpg' | relative_url }}" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[Automated detection of complex construction scenes using a lightweight transformer-based method](https://www.sciencedirect.com/science/article/pii/S092658052500370X)**
-
-H Xiao, B Yang, Y Lu, **W Chen**, S Lai, B Gao
-
-</div>
-</div> -->
-
-## 2024年
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src="{{ '/images/framework.jpg' | relative_url }}" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[SATO: Stable Text-to-Motion Framework](https://arxiv.org/abs/2405.01461)**
-
-**Wenshuo Chen#**, Hongru Xiao#, Erhang Zhang#, Lijie Hu, Lei Wang, Mengyuan Liu, Chen Chen
-
-[**Project**](https://sato-team.github.io/Stable-Text-to-Motion-Framework/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Code**](https://github.com/sato-team/Stable-Text-to-Motion-Framework) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src="{{ '/images/framework_med.jpg' | relative_url }}" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[Towards Multi-dimensional Explanation Alignment for Medical Classification](https://arxiv.org/abs/2410.21494)**
-
-Lijie Hu#, Songning Lai#, **Wenshuo Chen#**, Hongru Xiao, Hongbin Lin, Lu Yu, Jingfeng Zhang, and Di Wang
-
-</div>
-</div>
+[NeurIPS] Towards Multi-dimensional Explanation Alignment for Medical Classification. [ArXiv](https://arxiv.org/abs/2410.21494)<br>
+Lijie Hu*, Songning Lai*, Wenshuo Chen*, Hongru Xiao, Hongbin Lin, Lu Yu, Jingfeng Zhang, Di Wang.<br>
+The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024).

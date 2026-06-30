@@ -107,3 +107,100 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.collab-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    gap: 1rem;
+    margin: 1.25rem 0 2rem;
+}
+
+.collab-card {
+    display: flex;
+    align-items: center;
+    gap: .9rem;
+    min-height: 96px;
+    padding: 1rem;
+    border: 1px solid #d8dee8;
+    border-radius: 8px;
+    color: inherit;
+    text-decoration: none;
+    background: #fff;
+}
+
+.collab-card:hover {
+    border-color: #2b6f7f;
+    box-shadow: 0 4px 14px rgba(43, 111, 127, .12);
+    text-decoration: none;
+}
+
+.collab-avatar {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 56px;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    color: #fff;
+    background: linear-gradient(135deg, #2b6f7f, #7d5a8c);
+    font-weight: 700;
+    letter-spacing: 0;
+}
+
+.collab-body {
+    display: flex;
+    min-width: 0;
+    flex-direction: column;
+    line-height: 1.25;
+}
+
+.collab-body strong {
+    font-size: 1rem;
+}
+
+.collab-body span {
+    margin-top: .2rem;
+    color: #4f5b66;
+    font-size: .9rem;
+}
+
+.collab-body em {
+    margin-top: .35rem;
+    color: #7a4f2f;
+    font-size: .82rem;
+    font-style: normal;
+}
+
+.honor-media-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 1rem;
+    margin: 1.25rem 0 2rem;
+}
+
+.honor-media-grid figure,
+.honor-feature {
+    margin: 0 0 1.5rem;
+}
+
+.honor-media-grid img,
+.honor-feature img {
+    width: 100%;
+    border: 1px solid #d8dee8;
+    border-radius: 8px;
+}
+
+.honor-media-grid figcaption,
+.honor-feature figcaption {
+    margin-top: .45rem;
+    color: #4f5b66;
+    font-size: .9rem;
+}
+
+.honor-video {
+    width: 100%;
+    max-height: 620px;
+    border-radius: 8px;
+    background: #111;
+}
