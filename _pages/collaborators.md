@@ -42,6 +42,14 @@ author_profile: true
       <em>Faculty Collaborator</em>
     </span>
   </a>
+  <div class="collab-card">
+    <span class="collab-avatar">LH</span>
+    <span class="collab-body">
+      <strong>Lijie Hu</strong>
+      <span>KAUST</span>
+      <em>Faculty Collaborator</em>
+    </span>
+  </div>
 </div>
 
 ## Research Collaborators
@@ -64,12 +72,8 @@ author_profile: true
     <span class="collab-body"><strong>Songning Lai</strong><span>JoinQuant / HKUST(GZ)</span><em>Research Collaborator</em></span>
   </a>
   <div class="collab-card">
-    <span class="collab-avatar">LH</span>
-    <span class="collab-body"><strong>Lijie Hu</strong><span>KAUST</span><em>Research Collaborator</em></span>
-  </div>
-  <div class="collab-card">
     <span class="collab-avatar">HX</span>
-    <span class="collab-body"><strong>Hongru Xiao</strong><span>Research Collaborator</span><em>Text-to-Motion / XAI</em></span>
+    <span class="collab-body"><strong>Hongru Xiao</strong><span>CUHK-Shenzhen</span><em>Research Collaborator</em></span>
   </div>
   <div class="collab-card">
     <span class="collab-avatar">KU</span>
@@ -92,19 +96,7 @@ author_profile: true
     <span class="collab-body"><strong>Jiemin Wu</strong><span>HKUST(GZ)</span><em>Research Collaborator</em></span>
   </div>
   <div class="collab-card">
-    <span class="collab-avatar">KW</span>
-    <span class="collab-body"><strong>Keming Wu</strong><span>Research Collaborator</span><em>Text-to-Motion</em></span>
-  </div>
-  <div class="collab-card">
     <span class="collab-avatar">HJn</span>
-    <span class="collab-body"><strong>Honglei Jin</strong><span>Nexus Robotics Lab</span><em>Research Collaborator</em></span>
-  </div>
-  <div class="collab-card">
-    <span class="collab-avatar">YZ</span>
-    <span class="collab-body"><strong>Yuan Zhang</strong><span>Nexus Robotics Lab</span><em>Research Collaborator</em></span>
-  </div>
-  <div class="collab-card">
-    <span class="collab-avatar">YF</span>
-    <span class="collab-body"><strong>Youcheng Fan</strong><span>Nexus Robotics Lab</span><em>Research Collaborator</em></span>
+    <span class="collab-body"><strong>Honglei Jin</strong><span>Shandong University</span><em>Research Collaborator</em></span>
   </div>
 </div>
