@@ -133,23 +133,22 @@ h1:before, .anchor:before {
 .pub-tag {
     display: inline-block;
     margin-right: .45rem;
-    padding: .12rem .45rem;
-    border-radius: 4px;
-    color: #fff;
-    font-size: .78rem;
+    color: #2f766f;
+    font-size: .92rem;
     font-weight: 700;
-    line-height: 1.35;
-    vertical-align: .08rem;
+    line-height: 1.4;
     white-space: nowrap;
 }
 
-.pub-tag--preprint { background: #68707a; }
-.pub-tag--eccv { background: #a44855; }
-.pub-tag--bni { background: #2f766f; }
-.pub-tag--icml { background: #345f9d; }
-.pub-tag--iclr { background: #7a5b2f; }
-.pub-tag--acmmm { background: #6b5596; }
-.pub-tag--neurips { background: #9a5a35; }
+.pub-tag:before { content: "["; }
+.pub-tag:after { content: "]"; }
+.pub-tag--preprint { color: #68707a; }
+.pub-tag--eccv { color: #a44855; }
+.pub-tag--bni { color: #2f766f; }
+.pub-tag--icml { color: #345f9d; }
+.pub-tag--iclr { color: #7a5b2f; }
+.pub-tag--acmmm { color: #6b5596; }
+.pub-tag--neurips { color: #9a5a35; }
 
 .collab-grid {
     display: grid;
