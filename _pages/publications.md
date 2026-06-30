@@ -53,11 +53,11 @@ ACM Multimedia Workshop on Big Neural and Imaging Models (ACM MM BNI 2026). Sele
 <u>Haosen Li</u>*, <strong>Wenshuo Chen*†</strong>, Lei Wang, Shaofeng Liang, <u>Haozhe Jia</u>, Yutao Yue†.<br>
 ACM Multimedia Workshop on Big Neural and Imaging Models (ACM MM BNI 2026).</p>
 
-<p><span class="pub-tag pub-tag--icml">ICML</span> <strong>Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2605.20780" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
+<p><span class="pub-tag pub-tag--icml">ICML</span> <strong>Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2605.20780" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a> <a class="pub-link pub-link--code" href="https://github.com/Hxxxz0/REPA-P" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><br>
 <u>Haozhe Jia</u>*, Pengyu Yin*, <strong>Wenshuo Chen*</strong>, Shaofeng Liang, Lei Wang, Bowen Tian, Xiucheng Wang, Nanqian Jia, Yutao Yue.<br>
 The Forty-Third International Conference on Machine Learning (ICML 2026).</p>
 
-<p><span class="pub-tag pub-tag--icml">ICML</span> <strong>AnyEdit++: Adaptive Long-Form Knowledge Editing via Bayesian Surprise</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2606.01053" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
+<p><span class="pub-tag pub-tag--icml">ICML</span> <strong>AnyEdit++: Adaptive Long-Form Knowledge Editing via Bayesian Surprise</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2606.01053" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a> <a class="pub-link pub-link--code" href="https://github.com/TianSuya/Bayes-Chunk" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><br>
 Bowen Tian, Caixue He, Jiemin Wu, Jingying Wang, <strong>Wenshuo Chen</strong>, Zexi Li, Yutao Yue.<br>
 The Forty-Third International Conference on Machine Learning (ICML 2026).</p>
 
