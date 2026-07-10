@@ -16,6 +16,9 @@ author_profile: true
 <p><span class="pub-tag pub-tag--preprint">Preprint</span> <strong>ABLE: Representing and Mapping LLMs via Attribution-Based Large-model Embedding</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2606.07524" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
 Zirui Wang, Yusen Hou, Shaofeng Liang, Bowen Tian, Yanlin Zhang, <strong>Wenshuo Chen†</strong>, Yutao Yue†.</p>
 
+<p><span class="pub-tag pub-tag--preprint">Preprint</span> <strong>MemoGen: Can Past Experience Improve Future Text-to-Image Generation?</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2606.03243" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
+<strong>Wenshuo Chen*</strong>, Kuimou Yu*, Bowen Tian*, Jianfei Song*, Shaofeng Liang, <u>Haozhe Jia</u>, Kan Cheng, <u>Haosen Li</u>, Kaishen Yuan, Lei Wang, Jiemin Wu, Songning Lai, Yutao Yue.</p>
+
 <p><span class="pub-tag pub-tag--preprint">Preprint</span> <strong>Before the Body Moves: Learning Anticipatory Joint Intent for Language-Conditioned Humanoid Control</strong> <a class="pub-link pub-link--project" href="https://hxxxz0.github.io/DAJI_PAGE/" title="Project" aria-label="Project"><i class="fas fa-globe" aria-hidden="true"></i></a> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2605.14417" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a> <a class="pub-link pub-link--code" href="https://github.com/Hxxxz0/DAJI" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><br>
 <u>Haozhe Jia</u>, Honglei Jin, Yuan Zhang, Youcheng Fan*, Shaofeng Liang*, Lei Wang, Shuxu Jin, Kuimou Yu, Zinuo Zhang, Jianfei Song, <strong>Wenshuo Chen†</strong>, Yutao Yue†.</p>
 
@@ -39,8 +42,16 @@ Yang Yang, Zining Zhong, Jindong Li, Jiemin Wu, Kaishen Yuan, <strong>Wenshuo Ch
 
 <div class="pub-simple-list">
 
-<p><span class="pub-tag pub-tag--acmmm">ACM MM</span> <strong>MemoGen: Can Past Experience Improve Future Text-to-Image Generation?</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2606.03243" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
-<strong>Wenshuo Chen*</strong>, Kuimou Yu*, Bowen Tian*, Jianfei Song*, Shaofeng Liang, <u>Haozhe Jia</u>, Kan Cheng, <u>Haosen Li</u>, Kaishen Yuan, Lei Wang, Jiemin Wu, Songning Lai, Yutao Yue.<br>
+<p><span class="pub-tag pub-tag--acmmm">ACM MM</span> <strong>Z<sup>2</sup>-Sampling: Zero-Cost Zigzag Trajectories for Semantic Alignment in Diffusion Models</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2604.23536" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
+<u>Haosen Li</u>*, <strong>Wenshuo Chen*</strong>, Shaofeng Liang, Lei Wang, Kaishen Yuan, Yutao Yue.<br>
+The 34th ACM International Conference on Multimedia (ACM MM 2026).</p>
+
+<p><span class="pub-tag pub-tag--acmmm">ACM MM</span> <strong>When Efficiency Becomes Fragility: Exploiting Dynamic Routing Vulnerabilities in Adaptive UAV Tracking</strong><br>
+Shaofeng Liang, Runwei Guan, <strong>Wenshuo Chen</strong>, Jiemin Wu, Bowen Tian, <u>Haozhe Jia</u>, Kaishen Yuan, Songning Lai, Daizong Liu, Yutao Yue.<br>
+The 34th ACM International Conference on Multimedia (ACM MM 2026).</p>
+
+<p><span class="pub-tag pub-tag--acmmm">ACM MM</span> <strong>PACE: High-Precision Goal-Conditioned Humanoid Motion via Decoupled Flow Matching</strong><br>
+Youcheng Fan, <u>Haozhe Jia</u>, Jianfei Song, <strong>Wenshuo Chen</strong>, Yuan Zhang, Shaofeng Liang, Yutao Yue, Wei Zhang.<br>
 The 34th ACM International Conference on Multimedia (ACM MM 2026).</p>
 
 <p><span class="pub-tag pub-tag--eccv">ECCV</span> <strong>Dynamic-V2C: Editable and Continual Vision-to-Concept Bottleneck Models via Influence Functions</strong> <a class="pub-link pub-link--project" href="https://xll0328.github.io/dynamic-v2c/" title="Project" aria-label="Project"><i class="fas fa-globe" aria-hidden="true"></i></a><br>
