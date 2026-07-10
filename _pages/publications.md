@@ -16,9 +16,6 @@ author_profile: true
 <p><span class="pub-tag pub-tag--preprint">Preprint</span> <strong>ABLE: Representing and Mapping LLMs via Attribution-Based Large-model Embedding</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2606.07524" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
 Zirui Wang, Yusen Hou, Shaofeng Liang, Bowen Tian, Yanlin Zhang, <strong>Wenshuo Chen†</strong>, Yutao Yue†.</p>
 
-<p><span class="pub-tag pub-tag--preprint">Preprint</span> <strong>MemoGen: Can Past Experience Improve Future Text-to-Image Generation?</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2606.03243" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
-<strong>Wenshuo Chen*</strong>, Kuimou Yu*, Bowen Tian*, Jianfei Song*, Shaofeng Liang, <u>Haozhe Jia</u>, Kan Cheng, <u>Haosen Li</u>, Kaishen Yuan, Lei Wang, Jiemin Wu, Songning Lai, Yutao Yue.</p>
-
 <p><span class="pub-tag pub-tag--preprint">Preprint</span> <strong>Before the Body Moves: Learning Anticipatory Joint Intent for Language-Conditioned Humanoid Control</strong> <a class="pub-link pub-link--project" href="https://hxxxz0.github.io/DAJI_PAGE/" title="Project" aria-label="Project"><i class="fas fa-globe" aria-hidden="true"></i></a> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2605.14417" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a> <a class="pub-link pub-link--code" href="https://github.com/Hxxxz0/DAJI" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><br>
 <u>Haozhe Jia</u>, Honglei Jin, Yuan Zhang, Youcheng Fan*, Shaofeng Liang*, Lei Wang, Shuxu Jin, Kuimou Yu, Zinuo Zhang, Jianfei Song, <strong>Wenshuo Chen†</strong>, Yutao Yue†.</p>
 
@@ -41,6 +38,10 @@ Yang Yang, Zining Zhong, Jindong Li, Jiemin Wu, Kaishen Yuan, <strong>Wenshuo Ch
 ### Conference Papers
 
 <div class="pub-simple-list">
+
+<p><span class="pub-tag pub-tag--acmmm">ACM MM</span> <strong>MemoGen: Can Past Experience Improve Future Text-to-Image Generation?</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2606.03243" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
+<strong>Wenshuo Chen*</strong>, Kuimou Yu*, Bowen Tian*, Jianfei Song*, Shaofeng Liang, <u>Haozhe Jia</u>, Kan Cheng, <u>Haosen Li</u>, Kaishen Yuan, Lei Wang, Jiemin Wu, Songning Lai, Yutao Yue.<br>
+The 34th ACM International Conference on Multimedia (ACM MM 2026).</p>
 
 <p><span class="pub-tag pub-tag--eccv">ECCV</span> <strong>Dynamic-V2C: Editable and Continual Vision-to-Concept Bottleneck Models via Influence Functions</strong> <a class="pub-link pub-link--project" href="https://xll0328.github.io/dynamic-v2c/" title="Project" aria-label="Project"><i class="fas fa-globe" aria-hidden="true"></i></a><br>
 Songning Lai, Shaofeng Liang, Jiayu Yang, Ninghui Feng, Yuxuan Fan, <strong>Wenshuo Chen†</strong>.<br>

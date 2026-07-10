@@ -23,6 +23,7 @@ If you are interested in academic discussion or potential collaboration, please 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.07* **ACM MM*3**. Congratulations to the collaborators!
 - *2026.06* Our team won the **WBCD Logistics Picking World Championship**. I served as **POC**.
 - *2026.06* Two papers (**Dynamic-V2C** and **SFM**) are accepted by **ECCV 2026**. Congratulations to the collaborators!
 - *2026.06* Three papers are accepted by **ACM MM BNI Track 2026** (**1 Oral, 2 Posters**). Congratulations to the collaborators!
