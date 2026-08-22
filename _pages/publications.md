@@ -13,9 +13,6 @@ author_profile: true
 
 <div class="pub-simple-list">
 
-<p><span class="pub-tag pub-tag--preprint">Preprint</span> <strong>ABLE: Representing and Mapping LLMs via Attribution-Based Large-model Embedding</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2606.07524" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
-Zirui Wang, Yusen Hou, Shaofeng Liang, Bowen Tian, Yanlin Zhang, <strong>Wenshuo Chen†</strong>, Yutao Yue†.</p>
-
 <p><span class="pub-tag pub-tag--preprint">Preprint</span> <strong>MemoGen: Can Past Experience Improve Future Text-to-Image Generation?</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2606.03243" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
 <strong>Wenshuo Chen*</strong>, Kuimou Yu*, Bowen Tian*, Jianfei Song*, Shaofeng Liang, <u>Haozhe Jia</u>, Kan Cheng, <u>Haosen Li</u>, Kaishen Yuan, Lei Wang, Jiemin Wu, Songning Lai, Yutao Yue.</p>
 
@@ -41,6 +38,10 @@ Yang Yang, Zining Zhong, Jindong Li, Jiemin Wu, Kaishen Yuan, <strong>Wenshuo Ch
 ### Conference Papers
 
 <div class="pub-simple-list">
+
+<p><span class="pub-tag pub-tag--emnlp">EMNLP</span> <strong>ABLE: Representing and Mapping LLMs via Attribution-Based Large-model Embedding</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2606.07524" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
+Zirui Wang, Yusen Hou, Shaofeng Liang, Bowen Tian, Yanlin Zhang, <strong>Wenshuo Chen†</strong>, Yutao Yue†.<br>
+The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026).</p>
 
 <p><span class="pub-tag pub-tag--acmmm">ACM MM</span> <strong>Z<sup>2</sup>-Sampling: Zero-Cost Zigzag Trajectories for Semantic Alignment in Diffusion Models</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2604.23536" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
 <u>Haosen Li</u>*, <strong>Wenshuo Chen*</strong>, Shaofeng Liang, Lei Wang, Kaishen Yuan, Yutao Yue.<br>
