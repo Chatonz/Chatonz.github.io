@@ -39,9 +39,17 @@ Yang Yang, Zining Zhong, Jindong Li, Jiemin Wu, Kaishen Yuan, <strong>Wenshuo Ch
 
 <div class="pub-simple-list">
 
-<p><span class="pub-tag pub-tag--emnlp">EMNLP</span> <strong>ABLE: Representing and Mapping LLMs via Attribution-Based Large-model Embedding</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2606.07524" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
+<p><span class="pub-tag pub-tag--neurips">NeurIPS</span> <strong>Diving-R1: Empowering Multimodal LLMs with Traceable Progressive Reasoning for Interpretable Diving Action Quality Assessment</strong><br>
+Kaishen Yuan, Yuting Zhang, Bohao Xing, <strong>Wenshuo Chen</strong>, Yang Yang, Shaofeng Liang, Zitong YU, Yutao Yue.<br>
+The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026).</p>
+
+<p><span class="pub-tag pub-tag--neurips">NeurIPS</span> <strong>ClinStab: Stability-Oriented Learning for Medical Time Series via Dual-Stream Alignment</strong><br>
+<strong>Wenshuo Chen</strong>, Haoxuan Xu, Yi Liu, Songning Lai, Ninghui Feng, Jiayu Yang, Haoang Li, Yutao Yue.<br>
+The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026).</p>
+
+<p><span class="pub-tag pub-tag--emnlp">EMNLP <span class="pub-oral">Oral</span></span> <strong>ABLE: Representing and Mapping LLMs via Attribution-Based Large-model Embedding</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2606.07524" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
 Zirui Wang, Yusen Hou, Shaofeng Liang, Bowen Tian, Yanlin Zhang, <strong>Wenshuo Chen†</strong>, Yutao Yue†.<br>
-The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026).</p>
+The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026). Selected as an <span class="pub-oral">Oral</span> paper.</p>
 
 <p><span class="pub-tag pub-tag--acmmm">ACM MM</span> <strong>Z<sup>2</sup>-Sampling: Zero-Cost Zigzag Trajectories for Semantic Alignment in Diffusion Models</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2604.23536" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
 <u>Haosen Li</u>*, <strong>Wenshuo Chen*</strong>, Shaofeng Liang, Lei Wang, Kaishen Yuan, Yutao Yue.<br>

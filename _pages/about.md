@@ -23,6 +23,8 @@ If you are interested in academic discussion or potential collaboration, please 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.09* Two papers (**Diving-R1** and **ClinStab**) are accepted by **NeurIPS 2026**. Congratulations to the collaborators!
+- *2026.09* **ABLE** is selected as an **Oral** paper at **EMNLP 2026**. Congratulations to the collaborators!
 - *2026.08* One paper (**ABLE**) is accepted by **EMNLP 2026**. Congratulations to the collaborators!
 - *2026.07* Three papers are accepted by **ACM MM 2026**. Congratulations to the collaborators!
 - *2026.06* Our team won the **WBCD Logistics Picking World Championship**. I served as **POC**.
