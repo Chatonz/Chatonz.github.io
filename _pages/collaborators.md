@@ -55,6 +55,10 @@ author_profile: true
 ## Research Collaborators
 
 <div class="collab-grid">
+  <a class="collab-card" href="https://xll0328.github.io/" target="_blank" rel="noopener">
+    <span class="collab-avatar">SL</span>
+    <span class="collab-body"><strong>Songning Lai</strong><span>JoinQuant / HKUST(GZ)</span><em>Research Collaborator</em></span>
+  </a>
   <div class="collab-card">
     <span class="collab-avatar">HJ</span>
     <span class="collab-body"><strong>Haozhe Jia</strong><span>HKUST(GZ)</span><em>Research Collaborator</em></span>
@@ -67,10 +71,6 @@ author_profile: true
     <span class="collab-avatar">KY</span>
     <span class="collab-body"><strong>Kaishen Yuan</strong><span>HKUST(GZ)</span><em>Research Collaborator</em></span>
   </div>
-  <a class="collab-card" href="https://xll0328.github.io/" target="_blank" rel="noopener">
-    <span class="collab-avatar">SL</span>
-    <span class="collab-body"><strong>Songning Lai</strong><span>JoinQuant / HKUST(GZ)</span><em>Research Collaborator</em></span>
-  </a>
   <div class="collab-card">
     <span class="collab-avatar">HX</span>
     <span class="collab-body"><strong>Hongru Xiao</strong><span>CUHK-Shenzhen</span><em>Research Collaborator</em></span>
