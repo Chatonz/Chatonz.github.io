@@ -17,13 +17,13 @@ author_profile: true
 <strong>Wenshuo Chen*</strong>, Kuimou Yu*, Bowen Tian*, Jianfei Song*, Shaofeng Liang, <u>Haozhe Jia</u>, Kan Cheng, <u>Haosen Li</u>, Kaishen Yuan, Lei Wang, Jiemin Wu, Songning Lai, Yutao Yue.</p>
 
 <p><span class="pub-tag pub-tag--preprint">Preprint</span> <strong>Before the Body Moves: Learning Anticipatory Joint Intent for Language-Conditioned Humanoid Control</strong> <a class="pub-link pub-link--project" href="https://hxxxz0.github.io/DAJI_PAGE/" title="Project" aria-label="Project"><i class="fas fa-globe" aria-hidden="true"></i></a> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2605.14417" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a> <a class="pub-link pub-link--code" href="https://github.com/Hxxxz0/DAJI" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><br>
-<u>Haozhe Jia</u>, Honglei Jin, Yuan Zhang, Youcheng Fan*, Shaofeng Liang*, Lei Wang, Shuxu Jin, Kuimou Yu, Zinuo Zhang, Jianfei Song, <strong>Wenshuo Chen†</strong>, Yutao Yue†.</p>
+<u>Haozhe Jia</u>, <u>Honglei Jin</u>, Yuan Zhang, Youcheng Fan*, Shaofeng Liang*, Lei Wang, Shuxu Jin, Kuimou Yu, Zinuo Zhang, Jianfei Song, <strong>Wenshuo Chen†</strong>, Yutao Yue†.</p>
 
 <p><span class="pub-tag pub-tag--preprint">Preprint</span> <strong>TurboEvolve: Towards Fast and Robust LLM-Driven Program Evolution</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2604.18607" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
 Yang Yang, Zining Zhong, Jindong Li, Jiemin Wu, Kaishen Yuan, <strong>Wenshuo Chen</strong>, Menglin Yang, Yutao Yue.</p>
 
 <p><span class="pub-tag pub-tag--preprint">Preprint</span> <strong>An Edge-Cloud Framework for Language-Driven Whole-Body Control of Humanoid Robots</strong> <a class="pub-link pub-link--project" href="https://echo-phi-eight.vercel.app/" title="Project" aria-label="Project"><i class="fas fa-globe" aria-hidden="true"></i></a> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2603.16188" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a> <a class="pub-link pub-link--code" href="https://github.com/Hxxxz0/ECHO_CODE" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><br>
-<u>Haozhe Jia</u>, Jianfei Song, Yuan Zhang, Honglei Jin, Youcheng Fan, <strong>Wenshuo Chen</strong>, Wei Zhang, Yutao Yue.</p>
+<u>Haozhe Jia</u>, Jianfei Song, Yuan Zhang, <u>Honglei Jin</u>, Youcheng Fan, <strong>Wenshuo Chen</strong>, Wei Zhang, Yutao Yue.</p>
 
 <p><span class="pub-tag pub-tag--preprint">Preprint</span> <strong>POLARIS: Projection-Orthogonal Least Squares for Robust and Adaptive Inversion in Diffusion Models</strong> <a class="pub-link pub-link--project" href="https://polaris-code-official.github.io/" title="Project" aria-label="Project"><i class="fas fa-globe" aria-hidden="true"></i></a> <a class="pub-link pub-link--arxiv" href="https://www.arxiv.org/abs/2512.00369" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a> <a class="pub-link pub-link--code" href="https://github.com/Chatonz/POLARIS" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><br>
 <strong>Wenshuo Chen</strong>, <u>Haosen Li</u>, Shaofeng Liang, Lei Wang, <u>Haozhe Jia</u>, Kaishen Yuan, Jieming Wu, Bowen Tian, Yutao Yue.</p>
@@ -48,7 +48,7 @@ The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS
 The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026).</p>
 
 <p><span class="pub-tag pub-tag--emnlp">EMNLP <span class="pub-oral">Oral</span></span> <strong>ABLE: Representing and Mapping LLMs via Attribution-Based Large-model Embedding</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2606.07524" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
-Zirui Wang, Yusen Hou, Shaofeng Liang, Bowen Tian, Yanlin Zhang, <strong>Wenshuo Chen†</strong>, Yutao Yue†.<br>
+<u>Zirui Wang</u>, Yusen Hou, Shaofeng Liang, Bowen Tian, Yanlin Zhang, <strong>Wenshuo Chen†</strong>, Yutao Yue†.<br>
 The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026). Selected as an <span class="pub-oral">Oral</span> paper.</p>
 
 <p><span class="pub-tag pub-tag--acmmm">ACM MM</span> <strong>Z<sup>2</sup>-Sampling: Zero-Cost Zigzag Trajectories for Semantic Alignment in Diffusion Models</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2604.23536" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
@@ -72,7 +72,7 @@ Shang Gao*, Haicheng Liao*, <strong>Wenshuo Chen*</strong>, Yumu Xie, Jiaxun Zha
 The 19th European Conference on Computer Vision (ECCV 2026).</p>
 
 <p><span class="pub-tag pub-tag--bni">ACM MM BNI</span> <strong>Free-T2M: Frequency-Aware Coarse-to-Fine Text-to-Motion Generation</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2501.18232" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a> <a class="pub-link pub-link--code" href="https://github.com/Hxxxz0/Free-T2m" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><br>
-<strong>Wenshuo Chen*</strong>, <u>Haozhe Jia</u>*, Songning Lai, Lei Wang, Pengyu Yin, Shaofeng Liang, Yuqi Lin, Hongru Xiao, Lijie Hu, Yutao Yue.<br>
+<strong>Wenshuo Chen*</strong>, <u>Haozhe Jia</u>*, Songning Lai, Lei Wang, <u>Pengyu Yin</u>, Shaofeng Liang, Yuqi Lin, Hongru Xiao, Lijie Hu, Yutao Yue.<br>
 ACM Multimedia Brave New Ideas Track (ACM MM BNI 2026). Selected as a Poster paper.</p>
 
 <p><span class="pub-tag pub-tag--bni">ACM MM BNI <span class="pub-oral">Oral</span></span> <strong>Delta Score Matters! Spatial Adaptive Multi Guidance in Diffusion Models</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2604.26503" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a><br>
@@ -84,7 +84,7 @@ ACM Multimedia Workshop on Big Neural and Imaging Models (ACM MM BNI 2026). Sele
 ACM Multimedia Workshop on Big Neural and Imaging Models (ACM MM BNI 2026).</p>
 
 <p><span class="pub-tag pub-tag--icml">ICML</span> <strong>Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2605.20780" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a> <a class="pub-link pub-link--code" href="https://github.com/Hxxxz0/REPA-P" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><br>
-<u>Haozhe Jia</u>*, Pengyu Yin*, <strong>Wenshuo Chen*</strong>, Shaofeng Liang, Lei Wang, Bowen Tian, Xiucheng Wang, Nanqian Jia, Yutao Yue.<br>
+<u>Haozhe Jia</u>*, <u>Pengyu Yin</u>*, <strong>Wenshuo Chen*</strong>, Shaofeng Liang, Lei Wang, Bowen Tian, Xiucheng Wang, Nanqian Jia, Yutao Yue.<br>
 The Forty-Third International Conference on Machine Learning (ICML 2026).</p>
 
 <p><span class="pub-tag pub-tag--icml">ICML</span> <strong>AnyEdit++: Adaptive Long-Form Knowledge Editing via Bayesian Surprise</strong> <a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2606.01053" title="ArXiv" aria-label="ArXiv"><i class="ai ai-arxiv" aria-hidden="true"></i></a> <a class="pub-link pub-link--code" href="https://github.com/TianSuya/Bayes-Chunk" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><br>
